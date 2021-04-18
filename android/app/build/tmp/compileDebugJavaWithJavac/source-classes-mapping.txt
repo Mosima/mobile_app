@@ -1,0 +1,15 @@
+com/felixpro/ReactNativeFlipper.java
+ com.felixpro.ReactNativeFlipper
+ com.felixpro.ReactNativeFlipper$1
+ com.felixpro.ReactNativeFlipper$2
+ com.felixpro.ReactNativeFlipper$2$1
+com/felixpro/MainApplication.java
+ com.felixpro.MainApplication
+ com.felixpro.MainApplication$1
+com/felixpro/BuildConfig.java
+ com.felixpro.BuildConfig
+com/felixpro/MainActivity.java
+ com.felixpro.MainActivity
+ com.felixpro.MainActivity$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

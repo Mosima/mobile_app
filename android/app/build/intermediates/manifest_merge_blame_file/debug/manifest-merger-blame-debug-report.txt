@@ -1,0 +1,115 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.felixpro"
+4    android:versionCode="15"
+5    android:versionName="1.1.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:5:5-77
+11-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:4:5-67
+12-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\bc2c9bec221a3d84396efca9c855ccc6\jetified-flipper-0.75.1\AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\bc2c9bec221a3d84396efca9c855ccc6\jetified-flipper-0.75.1\AndroidManifest.xml:16:22-73
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Include required permissions for Google Maps API to run. -->
+14-->[:react-native-maps] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+14-->[:react-native-maps] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-78
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+15-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+16
+17    <uses-feature
+17-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+18        android:glEsVersion="0x00020000"
+18-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+19        android:required="true" />
+19-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+20
+21    <application
+21-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:7:5-28:19
+22        android:name="com.felixpro.MainApplication"
+22-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:8:7-38
+23        android:allowBackup="false"
+23-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:11:7-34
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.3.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\9284d94fb7e2c1f9c5339357b9e0a8a1\core-1.3.0\AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:icon="@mipmap/ic_launcher"
+26-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:10:7-41
+27        android:label="@string/app_name"
+27-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:9:7-39
+28        android:theme="@style/AppTheme"
+28-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:13:7-38
+29        android:usesCleartextTraffic="true" >
+29-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:12:7-42
+30        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+30-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\debug\AndroidManifest.xml:11:9-86
+30-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\debug\AndroidManifest.xml:11:19-83
+31
+32        <meta-data
+32-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:14:7-16:64
+33            android:name="com.google.android.geo.API_KEY"
+33-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:15:7-52
+34            android:value="AIzaSyDvaS7W8iRIZTGJ6v5yePMWF4B2sCEVWqg" />
+34-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:16:7-62
+35
+36        <activity
+36-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:17:7-27:18
+37            android:name="com.felixpro.MainActivity"
+37-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:18:9-37
+38            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+38-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:20:9-86
+39            android:label="@string/app_name"
+39-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:19:9-41
+40            android:launchMode="singleTask"
+40-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:21:9-40
+41            android:windowSoftInputMode="adjustResize" >
+41-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:22:9-51
+42            <intent-filter>
+42-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:23:9-26:25
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:24:13-65
+43-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:24:21-62
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:25:13-73
+45-->C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:25:23-70
+46            </intent-filter>
+47        </activity> <!-- Needs to be explicitly declared on P+ -->
+48        <uses-library
+48-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+49            android:name="org.apache.http.legacy"
+49-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+50            android:required="false" />
+50-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+51
+52        <activity
+52-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\073e7f7a2978c2a552bb1ecf5258fb0f\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+53            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+53-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\073e7f7a2978c2a552bb1ecf5258fb0f\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+54            android:exported="false"
+54-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\073e7f7a2978c2a552bb1ecf5258fb0f\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+55            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+55-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\073e7f7a2978c2a552bb1ecf5258fb0f\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+56
+57        <meta-data
+57-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d85912c1fb9a6a3cb5eae0425f7da4ec\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:11:9-13:43
+58            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+58-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d85912c1fb9a6a3cb5eae0425f7da4ec\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:12:13-84
+59            android:value="GlideModule" />
+59-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d85912c1fb9a6a3cb5eae0425f7da4ec\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:13:13-40
+60        <meta-data
+60-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\85928f3cbe55e5dab6237461edea784e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+61            android:name="com.google.android.gms.version"
+61-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\85928f3cbe55e5dab6237461edea784e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+62            android:value="@integer/google_play_services_version" />
+62-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\85928f3cbe55e5dab6237461edea784e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+63    </application>
+64
+65</manifest>

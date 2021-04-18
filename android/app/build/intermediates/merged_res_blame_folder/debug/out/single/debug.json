@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_logo.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_launch_screen.xml.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\layout\\launch_screen.xml"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_logo.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_logo.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_logo.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_launch_screen.xml.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\drawable\\bg_launch_screen.xml"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_logo.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\mipmap-ldpi\\ic_launcher.png"
+    }
+]
