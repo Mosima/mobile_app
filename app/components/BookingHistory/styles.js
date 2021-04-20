@@ -1,10 +1,18 @@
 import {StyleSheet} from 'react-native';
+import * as Utils from "@utils";
 
 export default StyleSheet.create({
   contain: {
     shadowOffset: {height: 1},
     shadowOpacity: 1.0,
     elevation: 5,
+  },
+  blockImage: {
+    height: Utils.scaleWithPixel(20),
+    width: "100%",
+    opacity:1,
+    zIndex:1,
+    backgroundColor:0
   },
   nameContent: {
     alignItems: 'flex-start',

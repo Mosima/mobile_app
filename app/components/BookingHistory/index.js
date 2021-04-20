@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { View, TouchableOpacity } from 'react-native';
-import { Text, Icon } from '@components';
+import { Text, Icon,Image} from '@components';
 import PropTypes from 'prop-types';
 import styles from './styles';
 import { useTheme, BaseColor } from '@config';
@@ -10,13 +10,13 @@ import Modal from 'react-native-modal';
 export default function BookingHistory(props) {
   const { t } = useTranslation();
   const { colors } = useTheme();
-  const { style, name, checkIn, checkOut, price, total, onPress } = props;
+  const { style, name, checkIn, checkOut, price, total, onPress, image } = props;
 
   const [modalVisible, setModalVisible] = useState(false)
   const openModal = (modal) => {
     setModalVisible(modal);
   };
-
+  console.log("IMAGE", image);
   const renderModal = () => {
     return (
       <View>
@@ -166,6 +166,10 @@ export default function BookingHistory(props) {
       <View
         style={[styles.mainContent, { backgroundColor: colors.primaryLight }]}>
         <View style={{ flex: 1, alignItems: 'flex-start' }}>
+        <TouchableOpacity onPress={onPress} activeOpacity={0.9}>
+          <Image source={image} style={styles.blockImage} />
+        </TouchableOpacity>
+          
           <Text caption2 whiteColor>
             {t('check_in')}
           </Text>
@@ -174,16 +178,15 @@ export default function BookingHistory(props) {
           </Text>
         </View>
         <View style={{ flex: 1, alignItems: 'flex-end' }}>
-        
-
+       
         </View>
       </View>
       <View style={[styles.validContent, { backgroundColor: colors.card }]}>
-        <TouchableOpacity onPress={() => setValue('up', 'adult')}>
+      <TouchableOpacity /*onPress={() => setValue('up', 'adult')}*/>
           <Icon name="plus-circle" size={24} color={colors.primary} />
         </TouchableOpacity>
 
-        <TouchableOpacity onPress={() => setValue('down', 'adult')}>
+        <TouchableOpacity /*onPress={() => setValue('down', 'adult')}*/ >
           <Icon
             name="minus-circle"
             size={24}

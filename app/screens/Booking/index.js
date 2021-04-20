@@ -29,6 +29,7 @@ export default function Booking({ navigation }) {
         total={item.total}
         price={item.price}
         style={{ paddingVertical: 10, marginHorizontal: 20 }}
+        image={item.image}
       // onPress={() => {
       //   navigation.navigate('BookingDetail');
       // }}
@@ -59,16 +60,8 @@ export default function Booking({ navigation }) {
         renderItem={({ item }) => renderItem(item)}
       />
       <View style={styles.iconRight}>
-        {/* <TouchableOpacity onPress={() => setValue('down', 'adult')}>
-          <Icon
-            name="minus-circle"
-            size={24}
-            color={BaseColor.grayColor}
-          />
-        </TouchableOpacity> */}
-        
         <TouchableOpacity onPress={() => setValue('up', 'adult')}>
-          <Icon name="plus-circle" size={65} color={colors.primary} />
+          <Icon name="plus-circle" size={70} color={colors.primary} />
         </TouchableOpacity>
       </View>
     </SafeAreaView>

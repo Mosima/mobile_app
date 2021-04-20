@@ -7,7 +7,8 @@ const BookingHistoryData = [
     checkIn: "04 Jun 08",
     checkOut: "07 Jun 08",
     total: "2 Days 1 Night",
-    price: "250,99"
+    price: "250,99",
+    image: Images.profile2
   },
   {
     id: "2",
@@ -15,7 +16,8 @@ const BookingHistoryData = [
     checkIn: "04 Jun 08",
     checkOut: "07 Jun 08",
     total: "2 Days 1 Night",
-    price: "R399,99"
+    price: "R399,99",
+    image: Images.valuepinelec
   },
   // {
   //   id: "3",

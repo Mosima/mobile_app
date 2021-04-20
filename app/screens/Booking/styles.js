@@ -6,13 +6,14 @@ export default StyleSheet.create({
     flex: 1
   },
   iconRight: {
-    width: 100,
+    //width: 100,
     flexDirection: "column",
     justifyContent: "space-between",
     alignItems: "center",
     paddingBottom: 30,
-    alignContent: 'flex-end',
-    alignItems: 'flex-end',
-    paddingLeft:50
+    paddingLeft:50,
+    marginLeft:200,
+    position: 'absolute',
+      bottom:0
   },
 });
