@@ -8,8 +8,8 @@ export default StyleSheet.create({
     elevation: 5,
   },
   blockImage: {
-    height: Utils.scaleWithPixel(20),
-    width: "100%",
+    height: Utils.scaleWithPixel(40),
+    width: "40%",
     opacity:1,
     zIndex:1,
     backgroundColor:0
