@@ -13,10 +13,14 @@ export default function BookingHistory(props) {
   const { style, name, checkIn, checkOut, price, total, onPress, image } = props;
 
   const [modalVisible, setModalVisible] = useState(false)
+  const [itemValue, setitemValue] = useState(
+    
+  )
+
   const openModal = (modal) => {
     setModalVisible(modal);
   };
-  console.log("IMAGE", image);
+  
   const renderModal = () => {
     return (
       <View>
@@ -166,19 +170,19 @@ export default function BookingHistory(props) {
       <View
         style={[styles.mainContent, { backgroundColor: colors.primaryLight }]}>
         <View style={{ flex: 1, alignItems: 'flex-start' }}>
+        <Image source={image} style={styles.blockImage} />
         <TouchableOpacity onPress={onPress} activeOpacity={0.9}>
-          <Image source={image} style={styles.blockImage} />
+
         </TouchableOpacity>
-          
+      
+        </View>
+        <View style={{ flex: 1, alignItems: 'flex-end' }}>
           <Text caption2 whiteColor>
             {t('check_in')}
           </Text>
           <Text body1 whiteColor semibold>
             {checkIn}
           </Text>
-        </View>
-        <View style={{ flex: 1, alignItems: 'flex-end' }}>
-       
         </View>
       </View>
       <View style={[styles.validContent, { backgroundColor: colors.card }]}>
@@ -194,8 +198,8 @@ export default function BookingHistory(props) {
           />
         </TouchableOpacity>
 
-        <Text overline semibold>
-          {/* {total} */}
+        <Text  semibold>
+          {total}
         </Text>
         <Text overline semibold>
           {price}
