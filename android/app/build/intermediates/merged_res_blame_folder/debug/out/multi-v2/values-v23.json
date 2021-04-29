@@ -4,7 +4,18 @@
             "outputFile": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Mosima\\.gradle\\caches\\transforms-2\\files-2.1\\7b384a08192e022d6df940f9d86b6e8a\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Mosima\\.gradle\\caches\\transforms-2\\files-2.1\\20abeb26ad7fce7cc0acecc1840beabe\\appcompat-1.2.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2735,2959,3074,3181,3294",
+                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2730,2954,3069,3176,3289,3519"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mosima\\.gradle\\caches\\transforms-2\\files-2.1\\d802af21c5911069399163e6e6bac6f4\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,18 +34,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Mosima\\.gradle\\caches\\transforms-2\\files-2.1\\de45a0fd8434326ad4e7efa8dfdedbff\\appcompat-1.2.0\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2735,2959,3074,3181,3294",
-                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
-                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
-                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2730,2954,3069,3176,3289,3519"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Mosima\\.gradle\\caches\\transforms-2\\files-2.1\\65389baa8199872f4f423b96dc2e68b7\\material-1.1.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Mosima\\.gradle\\caches\\transforms-2\\files-2.1\\f642aa7ef4da262e164cc58056070219\\material-1.1.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",

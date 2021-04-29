@@ -5,13 +5,14 @@ INJECTED from C:\projects\2021\felix-travel-complete-react-native-travel-app-tem
 INJECTED from C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:1:1-30:12
 INJECTED from C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:1:1-30:12
 MERGED from C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:1:1-30:12
-MERGED from [hermes-debug.aar] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\895f580c8dd0b135b1535d151d7099a3\jetified-hermes-debug\AndroidManifest.xml:2:1-7:12
-MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\bc2c9bec221a3d84396efca9c855ccc6\jetified-flipper-0.75.1\AndroidManifest.xml:8:1-18:12
-MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\39bd4427ba55bb95cec0a17e1d87aadc\jetified-flipper-network-plugin-0.75.1\AndroidManifest.xml:8:1-15:12
-MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\09b359d7614953c94accb2f71c06ace7\jetified-flipper-fresco-plugin-0.75.1\AndroidManifest.xml:8:1-15:12
+MERGED from [hermes-debug.aar] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\642ba5a127fb47fcdcc2884c5779ddb1\jetified-hermes-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\743ba5ccbb6045574d48de95cb671355\jetified-flipper-0.75.1\AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e1260fa1c8ac5a82b9150c7fe44c7eae\jetified-flipper-network-plugin-0.75.1\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\7cc12d072cd3899858e598b44832c9df\jetified-flipper-fresco-plugin-0.75.1\AndroidManifest.xml:8:1-15:12
 MERGED from [:react-native-fast-image] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-fast-image\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-community_async-storage] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-community_masked-view] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_app] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-dark-mode] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-dark-mode\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
 MERGED from [:react-native-gesture-handler] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-maps] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
@@ -22,67 +23,88 @@ MERGED from [:react-native-screens] C:\projects\2021\felix-travel-complete-react
 MERGED from [:react-native-splash-screen] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
 MERGED from [:react-native-vector-icons] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:rn-range-slider] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\rn-range-slider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\fc339b0d8d48f9104c133d21845834db\jetified-react-native-0.64.0\AndroidManifest.xml:2:1-13:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\dd7b601e08788ba4b5f1825db1b2be57\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1187cf81b2b3963e193d770d8548b5d0\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.material:material:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\65389baa8199872f4f423b96dc2e68b7\material-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\de45a0fd8434326ad4e7efa8dfdedbff\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [:react-native-reanimated] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-reanimated\android\build\.transforms\4c6cb2f125ffbc1431636da97dc6d9ff\jetified-react-native-reanimated-64\AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\dec23046b1cd8ee818534e3e6e5377a7\jetified-flipper-2.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\380141aa37e91e4ca9ed03d2ca2964e9\jetified-stetho-2.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\18778b06f60af6c5a4a2f853c749d7cb\jetified-fresco-2.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1fb42cf3466f3d448bc56f3b7caf4fdd\jetified-drawee-2.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a6f15a9d3e728d6d9022d6dc249e4739\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\5c46c964d0e8bacae8e4c15818f48971\jetified-memory-type-native-2.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d242754f8c041a43d5031413aa1b67aa\jetified-memory-type-java-2.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\9bf3838ad41d2f6987b8b34b5a0e2ec7\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1749e184cff64214324504ec6f78511b\jetified-soloader-2.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2c01a1f1f6be54c97e4c1f9258c8c920\jetified-soloader-0.10.1\AndroidManifest.xml:2:1-13:12
-MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0a58a788ab5a77129a3bebe0f31d419c\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4c2c4191b30fc97b19b6aa21b57961e4\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\da35ae8c18988ebfa38062f14cc7c94d\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e0d46bb26c3a0779af67fea068bed23f\jetified-imagepipeline-2.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\804e90d7d0c88dc42c9b44642bb01350\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d8f3030e8901799973615bafbeb1a96c\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\03db52cd268e55a4eaa6ded739ec927b\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e4a27ac7748b9b207ff756d8c490ab3e\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
-MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\3fc754ca58ac3cebcb48abdcb9b42809\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\073e7f7a2978c2a552bb1ecf5258fb0f\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\971b83077d93f8fed38618860c5d01b2\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d85912c1fb9a6a3cb5eae0425f7da4ec\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:2:1-16:12
-MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\55cfbaaa3794e1ced24750da12ca7cbd\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\204ff53abcd790e5e57753a58686e0dd\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\5acf2eb34fb5bc9465be125fed2d0033\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\85928f3cbe55e5dab6237461edea784e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\af12de25f6ae1d2e34e70f0ae913e287\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\b5660dd02c621b9169fe91a390ffb328\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\eae372ca85e4fbee35683333ad6a1106\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ff45851ee60b6c95b0622f1ac2d10a21\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c549d497594974f31f528524ce8bb7fa\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\6bef531c60db93c82624feae9a3ea03a\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\869c017e7344e67b146c71eec4718950\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ec6118bbc772e2ecfc19e0b312999a01\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\bbbe07f3a1323c8fb35cb485d0edff81\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\cc08a3a37f86e16db01a6f7bfb109ae4\transition-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.3.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\9284d94fb7e2c1f9c5339357b9e0a8a1\core-1.3.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\580d65f3729fad8ad6bd88b68ecd24fb\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\9a46a41e653636130a0e836e800f45ee\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1d66e95bc2baace9085822e9804d5f95\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ac119083588368694cd601e5666fb931\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8ad29f2eddddee18a79d5cd26999a145\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\eac728c2ae835895fe6678d39db486ab\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e65723cf7dfccbdb57268f838eb765fc\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d664d7257f0171d43a60df6bc6a299f4\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\7b384a08192e022d6df940f9d86b6e8a\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\72d9d35964bf91458034f7ab280ec2b8\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\fc124857cf3d0ae4d0c4b9b910b02dea\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c05b9c8b636f5edb3f89167d05b26559\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\28faf7533e3b0c4d2e48745bc2d68b78\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2ffe3dadd3b4eecda3850ba21f632339\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8d00cda4c4977f6e787cbb9c52024a59\jetified-android-maps-utils-0.5\AndroidManifest.xml:2:1-13:12
-MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\6cb14280239c5748ef6c17e175e3a106\jetified-fbcore-2.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\3f77e6c2b5217b0399aa37b303b6ccaf\jetified-ui-common-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2ca9485ae4e185026859cdd74cf6a637\jetified-react-native-0.64.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\306ad9db72dc4c6a8a5b709b909caa91\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8f04cfcea4f902d5cf6f86d4b5c32cbe\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\10c496cc37130e2740ead20359264e2e\jetified-firebase-analytics-18.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f642aa7ef4da262e164cc58056070219\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\20abeb26ad7fce7cc0acecc1840beabe\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:react-native-reanimated] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-reanimated\android\build\.transforms\d80d3352b234596ed2d72dc74d40656b\jetified-react-native-reanimated-64\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\44ba79ed24abd40adbd07b75f051305a\jetified-flipper-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f69240e1d1a50269cbca88db68b60ed0\jetified-stetho-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c15dcdfabf01f0a6f89ed84665e92a1e\jetified-fresco-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\85be96ce1f0fe57cba7cee8c1307d26f\jetified-drawee-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\69360acc3529d0c06a6563e4294f1bb2\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\b39294047030397d02e53ff0456beef1\jetified-memory-type-native-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\161b6cfbfe781d7831ba61ffbd34afe7\jetified-memory-type-java-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\3c25ee96826cdcbc9c18ead8a2d7819e\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d7340384edff4c3a14474c10f5d3e3d8\jetified-soloader-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8d8f2d0f0a72d9a7c72afd717db574d2\jetified-soloader-0.10.1\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a0b73dacfcc1fb85bdf8f368e9c0648b\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c993706144745f80c69bc08600221316\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\591b6a64b8a1777d202e27181f264801\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e1cb07d99fdc540916b8f64a7e67be72\jetified-imagepipeline-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\02f8c0fe1ed537c9cb09162418a32ef8\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\5a11799d59480efb0351eda80cc0eb90\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0129fc7ca7a41a16305de1c366351347\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\bc19979994832a1585033050bc24d842\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\6baf6846a4e5ac741958969dea8d620f\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\18af0c4f726ecce14918999e20006f5a\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\af6ff0ba46c3ed6ed5ca4647e97d699d\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\95663bbf1f50537c5643860a59a8dd19\jetified-play-services-auth-19.0.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e22a02f41529a34661024ac343d5b08d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f1e1798e415a0346fe6b8cabcb4e0f20\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\41a9f77137500abed8c99a4d21393e91\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d4b70bbb6e58b948122db12d68bf7401\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e6f2323d80f54e3e74901eff4fd3c12d\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\098a71275133558a5da8027e6eda3572\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a69bc6cd5c0a1073aece8f5ce7dcdbbc\jetified-firebase-installations-16.3.5\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:15:1-49:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\3b1981b46c000041fe3a1e7dcd1a63e1\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a611210796d9e2308aaf7c5411342883\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8a27f6ca89bd01b016883e3a7ec4d1cc\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\62ff64115e373c2cfb391cec5557c1ac\jetified-play-services-measurement-sdk-18.0.2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a67cff56b0e90b6df01cd52b44ad5b1e\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2bdc62ee08beb2c39eac17344c3cb68d\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\56b7278a1825b14ef0853169fac9e085\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\42711444d9c2852d496d9f94c92d4047\jetified-play-services-measurement-base-18.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\66ad38c522786a44122070db54aec826\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e70449876b30ad478c54a0005d60d159\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\070ba0359a677b41301d6d2aab276bc6\jetified-play-services-basement-17.1.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ad3bd0b57c74701676ba25a93f656b4\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\15801d1218ef16e7b1662ec8270b64b5\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\06aa6eb1bc41d0f96c2530fe9713c181\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ddf61f4bd32239a1e69886c23bc7d841\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2c02c456275792decc2af0c530ff1a03\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8e2f29bb79eb941be212a6c2ef3d15d7\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\084f18265170ca7bed9fd0b3a0ec8344\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\b092ae7636dc49a2652331c7a875379d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\942b80847efdc4efa0660e5034eefd04\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8682146fa70b6a595c5a728c3c19efe7\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8c039f0bdb1ba4de09c8f3f2ccbd5bd8\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0dcc506234973a10ccc2d1809ada54fe\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4f2353ec89a8e8d65f4ac7828843d0d8\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\7c15eaf4d362a8a4017c1fdf70a6b667\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c885a3d5eeea20f5698d697f078052f3\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f8f4f6fbef5701db974204f29bec38e4\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\84c3f8cb319a667ce8e58c8b71c171c6\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\642eb1a15824984f869763b46da0c543\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a22b7b486ef60005a9c73af57e330c2e\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\16459ced505aec226811f2c380738278\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d802af21c5911069399163e6e6bac6f4\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\560a626687d93bf4bd62b3b229ab2356\jetified-firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c082a54df3103df1bcc6389d992f3c37\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\9d6ee4d83393be2842018616e28215c2\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\62611bad11d8f59650424ddff89e6aa1\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\172c738307d0633d64adc26f1bd788b3\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ece1a2c915ac6c93348f491d8f5061c7\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a120fa9e9f15a73c840d520098c54595\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ac80ca8ab92ea68fab02431c761ac255\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e8e005d0f438a9b65dee1ed78d80d4d2\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\610c91351b797146d6dbc58ddc88186c\jetified-android-maps-utils-0.5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e24a19467ffcd1a63fb14c7e9c17011c\jetified-fbcore-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\52e297dda173871b77ad2b7ad04da76c\jetified-ui-common-2.2.0\AndroidManifest.xml:2:1-9:12
 INJECTED from C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\debug\AndroidManifest.xml:2:1-13:12
 INJECTED from C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\debug\AndroidManifest.xml:2:1-13:12
 INJECTED from C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\debug\AndroidManifest.xml:2:1-13:12
@@ -105,12 +127,22 @@ INJECTED from C:\projects\2021\felix-travel-complete-react-native-travel-app-tem
 		ADDED from C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:4:5-67
-MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\bc2c9bec221a3d84396efca9c855ccc6\jetified-flipper-0.75.1\AndroidManifest.xml:15:5-67
-MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\bc2c9bec221a3d84396efca9c855ccc6\jetified-flipper-0.75.1\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\743ba5ccbb6045574d48de95cb671355\jetified-flipper-0.75.1\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\743ba5ccbb6045574d48de95cb671355\jetified-flipper-0.75.1\AndroidManifest.xml:15:5-67
 MERGED from [:react-native-maps] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
 MERGED from [:react-native-maps] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e22a02f41529a34661024ac343d5b08d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e22a02f41529a34661024ac343d5b08d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\098a71275133558a5da8027e6eda3572\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\098a71275133558a5da8027e6eda3572\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a69bc6cd5c0a1073aece8f5ce7dcdbbc\jetified-firebase-installations-16.3.5\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a69bc6cd5c0a1073aece8f5ce7dcdbbc\jetified-firebase-installations-16.3.5\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a67cff56b0e90b6df01cd52b44ad5b1e\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a67cff56b0e90b6df01cd52b44ad5b1e\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\56b7278a1825b14ef0853169fac9e085\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\56b7278a1825b14ef0853169fac9e085\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
@@ -127,38 +159,62 @@ MERGED from [:react-native-dark-mode] C:\projects\2021\felix-travel-complete-rea
 MERGED from [:react-native-dark-mode] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-dark-mode\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
 MERGED from [:react-native-splash-screen] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
 MERGED from [:react-native-splash-screen] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
-MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\fc339b0d8d48f9104c133d21845834db\jetified-react-native-0.64.0\AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\fc339b0d8d48f9104c133d21845834db\jetified-react-native-0.64.0\AndroidManifest.xml:11:5-20
-MERGED from [com.google.android.material:material:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\65389baa8199872f4f423b96dc2e68b7\material-1.1.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\65389baa8199872f4f423b96dc2e68b7\material-1.1.0\AndroidManifest.xml:22:5-20
-MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2c01a1f1f6be54c97e4c1f9258c8c920\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2c01a1f1f6be54c97e4c1f9258c8c920\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
-MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\3fc754ca58ac3cebcb48abdcb9b42809\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\3fc754ca58ac3cebcb48abdcb9b42809\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\073e7f7a2978c2a552bb1ecf5258fb0f\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\073e7f7a2978c2a552bb1ecf5258fb0f\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
-MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d85912c1fb9a6a3cb5eae0425f7da4ec\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:10:5-14:19
-MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d85912c1fb9a6a3cb5eae0425f7da4ec\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:10:5-14:19
-MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\55cfbaaa3794e1ced24750da12ca7cbd\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\55cfbaaa3794e1ced24750da12ca7cbd\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\204ff53abcd790e5e57753a58686e0dd\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\204ff53abcd790e5e57753a58686e0dd\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\5acf2eb34fb5bc9465be125fed2d0033\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\5acf2eb34fb5bc9465be125fed2d0033\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\85928f3cbe55e5dab6237461edea784e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\85928f3cbe55e5dab6237461edea784e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.core:core:1.3.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\9284d94fb7e2c1f9c5339357b9e0a8a1\core-1.3.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.3.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\9284d94fb7e2c1f9c5339357b9e0a8a1\core-1.3.0\AndroidManifest.xml:24:5-89
-MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ac119083588368694cd601e5666fb931\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ac119083588368694cd601e5666fb931\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\eac728c2ae835895fe6678d39db486ab\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\eac728c2ae835895fe6678d39db486ab\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
-MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8d00cda4c4977f6e787cbb9c52024a59\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
-MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8d00cda4c4977f6e787cbb9c52024a59\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2ca9485ae4e185026859cdd74cf6a637\jetified-react-native-0.64.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2ca9485ae4e185026859cdd74cf6a637\jetified-react-native-0.64.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\10c496cc37130e2740ead20359264e2e\jetified-firebase-analytics-18.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\10c496cc37130e2740ead20359264e2e\jetified-firebase-analytics-18.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f642aa7ef4da262e164cc58056070219\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f642aa7ef4da262e164cc58056070219\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8d8f2d0f0a72d9a7c72afd717db574d2\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8d8f2d0f0a72d9a7c72afd717db574d2\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\18af0c4f726ecce14918999e20006f5a\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\18af0c4f726ecce14918999e20006f5a\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\af6ff0ba46c3ed6ed5ca4647e97d699d\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\af6ff0ba46c3ed6ed5ca4647e97d699d\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\95663bbf1f50537c5643860a59a8dd19\jetified-play-services-auth-19.0.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\95663bbf1f50537c5643860a59a8dd19\jetified-play-services-auth-19.0.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e22a02f41529a34661024ac343d5b08d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e22a02f41529a34661024ac343d5b08d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f1e1798e415a0346fe6b8cabcb4e0f20\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f1e1798e415a0346fe6b8cabcb4e0f20\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e6f2323d80f54e3e74901eff4fd3c12d\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e6f2323d80f54e3e74901eff4fd3c12d\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\098a71275133558a5da8027e6eda3572\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\098a71275133558a5da8027e6eda3572\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a69bc6cd5c0a1073aece8f5ce7dcdbbc\jetified-firebase-installations-16.3.5\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a69bc6cd5c0a1073aece8f5ce7dcdbbc\jetified-firebase-installations-16.3.5\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a611210796d9e2308aaf7c5411342883\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a611210796d9e2308aaf7c5411342883\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8a27f6ca89bd01b016883e3a7ec4d1cc\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8a27f6ca89bd01b016883e3a7ec4d1cc\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\62ff64115e373c2cfb391cec5557c1ac\jetified-play-services-measurement-sdk-18.0.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\62ff64115e373c2cfb391cec5557c1ac\jetified-play-services-measurement-sdk-18.0.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a67cff56b0e90b6df01cd52b44ad5b1e\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a67cff56b0e90b6df01cd52b44ad5b1e\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2bdc62ee08beb2c39eac17344c3cb68d\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2bdc62ee08beb2c39eac17344c3cb68d\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\42711444d9c2852d496d9f94c92d4047\jetified-play-services-measurement-base-18.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\42711444d9c2852d496d9f94c92d4047\jetified-play-services-measurement-base-18.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\66ad38c522786a44122070db54aec826\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\66ad38c522786a44122070db54aec826\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e70449876b30ad478c54a0005d60d159\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e70449876b30ad478c54a0005d60d159\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\070ba0359a677b41301d6d2aab276bc6\jetified-play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\070ba0359a677b41301d6d2aab276bc6\jetified-play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0dcc506234973a10ccc2d1809ada54fe\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0dcc506234973a10ccc2d1809ada54fe\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f8f4f6fbef5701db974204f29bec38e4\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f8f4f6fbef5701db974204f29bec38e4\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\642eb1a15824984f869763b46da0c543\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\642eb1a15824984f869763b46da0c543\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\610c91351b797146d6dbc58ddc88186c\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\610c91351b797146d6dbc58ddc88186c\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.3.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\9284d94fb7e2c1f9c5339357b9e0a8a1\core-1.3.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.3.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0dcc506234973a10ccc2d1809ada54fe\core-1.3.0\AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:9:7-39
 		ADDED from C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml:9:7-39
@@ -212,20 +268,22 @@ uses-sdk
 INJECTED from C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\main\AndroidManifest.xml
-MERGED from [hermes-debug.aar] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\895f580c8dd0b135b1535d151d7099a3\jetified-hermes-debug\AndroidManifest.xml:5:5-44
-MERGED from [hermes-debug.aar] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\895f580c8dd0b135b1535d151d7099a3\jetified-hermes-debug\AndroidManifest.xml:5:5-44
-MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\bc2c9bec221a3d84396efca9c855ccc6\jetified-flipper-0.75.1\AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\bc2c9bec221a3d84396efca9c855ccc6\jetified-flipper-0.75.1\AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\39bd4427ba55bb95cec0a17e1d87aadc\jetified-flipper-network-plugin-0.75.1\AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\39bd4427ba55bb95cec0a17e1d87aadc\jetified-flipper-network-plugin-0.75.1\AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\09b359d7614953c94accb2f71c06ace7\jetified-flipper-fresco-plugin-0.75.1\AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\09b359d7614953c94accb2f71c06ace7\jetified-flipper-fresco-plugin-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [hermes-debug.aar] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\642ba5a127fb47fcdcc2884c5779ddb1\jetified-hermes-debug\AndroidManifest.xml:5:5-44
+MERGED from [hermes-debug.aar] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\642ba5a127fb47fcdcc2884c5779ddb1\jetified-hermes-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\743ba5ccbb6045574d48de95cb671355\jetified-flipper-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\743ba5ccbb6045574d48de95cb671355\jetified-flipper-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e1260fa1c8ac5a82b9150c7fe44c7eae\jetified-flipper-network-plugin-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e1260fa1c8ac5a82b9150c7fe44c7eae\jetified-flipper-network-plugin-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\7cc12d072cd3899858e598b44832c9df\jetified-flipper-fresco-plugin-0.75.1\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\7cc12d072cd3899858e598b44832c9df\jetified-flipper-fresco-plugin-0.75.1\AndroidManifest.xml:11:5-13:41
 MERGED from [:react-native-fast-image] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-fast-image\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-fast-image] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-fast-image\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-community_async-storage] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_async-storage] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-dark-mode] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-dark-mode\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-dark-mode] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-dark-mode\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
@@ -246,128 +304,170 @@ MERGED from [:react-native-vector-icons] C:\projects\2021\felix-travel-complete-
 MERGED from [:react-native-vector-icons] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:rn-range-slider] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\rn-range-slider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:rn-range-slider] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\rn-range-slider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\fc339b0d8d48f9104c133d21845834db\jetified-react-native-0.64.0\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\fc339b0d8d48f9104c133d21845834db\jetified-react-native-0.64.0\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\dd7b601e08788ba4b5f1825db1b2be57\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\dd7b601e08788ba4b5f1825db1b2be57\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1187cf81b2b3963e193d770d8548b5d0\multidex-2.0.0\AndroidManifest.xml:20:5-43
-MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1187cf81b2b3963e193d770d8548b5d0\multidex-2.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.material:material:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\65389baa8199872f4f423b96dc2e68b7\material-1.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\65389baa8199872f4f423b96dc2e68b7\material-1.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\de45a0fd8434326ad4e7efa8dfdedbff\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\de45a0fd8434326ad4e7efa8dfdedbff\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [:react-native-reanimated] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-reanimated\android\build\.transforms\4c6cb2f125ffbc1431636da97dc6d9ff\jetified-react-native-reanimated-64\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-reanimated] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-reanimated\android\build\.transforms\4c6cb2f125ffbc1431636da97dc6d9ff\jetified-react-native-reanimated-64\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\dec23046b1cd8ee818534e3e6e5377a7\jetified-flipper-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\dec23046b1cd8ee818534e3e6e5377a7\jetified-flipper-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\380141aa37e91e4ca9ed03d2ca2964e9\jetified-stetho-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\380141aa37e91e4ca9ed03d2ca2964e9\jetified-stetho-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\18778b06f60af6c5a4a2f853c749d7cb\jetified-fresco-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\18778b06f60af6c5a4a2f853c749d7cb\jetified-fresco-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1fb42cf3466f3d448bc56f3b7caf4fdd\jetified-drawee-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1fb42cf3466f3d448bc56f3b7caf4fdd\jetified-drawee-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a6f15a9d3e728d6d9022d6dc249e4739\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a6f15a9d3e728d6d9022d6dc249e4739\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\5c46c964d0e8bacae8e4c15818f48971\jetified-memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\5c46c964d0e8bacae8e4c15818f48971\jetified-memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d242754f8c041a43d5031413aa1b67aa\jetified-memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d242754f8c041a43d5031413aa1b67aa\jetified-memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\9bf3838ad41d2f6987b8b34b5a0e2ec7\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\9bf3838ad41d2f6987b8b34b5a0e2ec7\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1749e184cff64214324504ec6f78511b\jetified-soloader-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1749e184cff64214324504ec6f78511b\jetified-soloader-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2c01a1f1f6be54c97e4c1f9258c8c920\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2c01a1f1f6be54c97e4c1f9258c8c920\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0a58a788ab5a77129a3bebe0f31d419c\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0a58a788ab5a77129a3bebe0f31d419c\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4c2c4191b30fc97b19b6aa21b57961e4\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4c2c4191b30fc97b19b6aa21b57961e4\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\da35ae8c18988ebfa38062f14cc7c94d\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\da35ae8c18988ebfa38062f14cc7c94d\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e0d46bb26c3a0779af67fea068bed23f\jetified-imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e0d46bb26c3a0779af67fea068bed23f\jetified-imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\804e90d7d0c88dc42c9b44642bb01350\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\804e90d7d0c88dc42c9b44642bb01350\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d8f3030e8901799973615bafbeb1a96c\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d8f3030e8901799973615bafbeb1a96c\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\03db52cd268e55a4eaa6ded739ec927b\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\03db52cd268e55a4eaa6ded739ec927b\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e4a27ac7748b9b207ff756d8c490ab3e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e4a27ac7748b9b207ff756d8c490ab3e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\3fc754ca58ac3cebcb48abdcb9b42809\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\3fc754ca58ac3cebcb48abdcb9b42809\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\073e7f7a2978c2a552bb1ecf5258fb0f\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\073e7f7a2978c2a552bb1ecf5258fb0f\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\971b83077d93f8fed38618860c5d01b2\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\971b83077d93f8fed38618860c5d01b2\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d85912c1fb9a6a3cb5eae0425f7da4ec\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d85912c1fb9a6a3cb5eae0425f7da4ec\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\55cfbaaa3794e1ced24750da12ca7cbd\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\55cfbaaa3794e1ced24750da12ca7cbd\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\204ff53abcd790e5e57753a58686e0dd\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\204ff53abcd790e5e57753a58686e0dd\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\5acf2eb34fb5bc9465be125fed2d0033\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\5acf2eb34fb5bc9465be125fed2d0033\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\85928f3cbe55e5dab6237461edea784e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\85928f3cbe55e5dab6237461edea784e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\af12de25f6ae1d2e34e70f0ae913e287\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\af12de25f6ae1d2e34e70f0ae913e287\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\b5660dd02c621b9169fe91a390ffb328\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\b5660dd02c621b9169fe91a390ffb328\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\eae372ca85e4fbee35683333ad6a1106\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\eae372ca85e4fbee35683333ad6a1106\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ff45851ee60b6c95b0622f1ac2d10a21\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ff45851ee60b6c95b0622f1ac2d10a21\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c549d497594974f31f528524ce8bb7fa\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c549d497594974f31f528524ce8bb7fa\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\6bef531c60db93c82624feae9a3ea03a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\6bef531c60db93c82624feae9a3ea03a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\869c017e7344e67b146c71eec4718950\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\869c017e7344e67b146c71eec4718950\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ec6118bbc772e2ecfc19e0b312999a01\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ec6118bbc772e2ecfc19e0b312999a01\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\bbbe07f3a1323c8fb35cb485d0edff81\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\bbbe07f3a1323c8fb35cb485d0edff81\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\cc08a3a37f86e16db01a6f7bfb109ae4\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\cc08a3a37f86e16db01a6f7bfb109ae4\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\9284d94fb7e2c1f9c5339357b9e0a8a1\core-1.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\9284d94fb7e2c1f9c5339357b9e0a8a1\core-1.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\580d65f3729fad8ad6bd88b68ecd24fb\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\580d65f3729fad8ad6bd88b68ecd24fb\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\9a46a41e653636130a0e836e800f45ee\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\9a46a41e653636130a0e836e800f45ee\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1d66e95bc2baace9085822e9804d5f95\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1d66e95bc2baace9085822e9804d5f95\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ac119083588368694cd601e5666fb931\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ac119083588368694cd601e5666fb931\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8ad29f2eddddee18a79d5cd26999a145\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8ad29f2eddddee18a79d5cd26999a145\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\eac728c2ae835895fe6678d39db486ab\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\eac728c2ae835895fe6678d39db486ab\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e65723cf7dfccbdb57268f838eb765fc\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e65723cf7dfccbdb57268f838eb765fc\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d664d7257f0171d43a60df6bc6a299f4\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d664d7257f0171d43a60df6bc6a299f4\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\7b384a08192e022d6df940f9d86b6e8a\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\7b384a08192e022d6df940f9d86b6e8a\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\72d9d35964bf91458034f7ab280ec2b8\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\72d9d35964bf91458034f7ab280ec2b8\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\fc124857cf3d0ae4d0c4b9b910b02dea\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\fc124857cf3d0ae4d0c4b9b910b02dea\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c05b9c8b636f5edb3f89167d05b26559\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c05b9c8b636f5edb3f89167d05b26559\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\28faf7533e3b0c4d2e48745bc2d68b78\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\28faf7533e3b0c4d2e48745bc2d68b78\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2ffe3dadd3b4eecda3850ba21f632339\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2ffe3dadd3b4eecda3850ba21f632339\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8d00cda4c4977f6e787cbb9c52024a59\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
-MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8d00cda4c4977f6e787cbb9c52024a59\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
-MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\6cb14280239c5748ef6c17e175e3a106\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\6cb14280239c5748ef6c17e175e3a106\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\3f77e6c2b5217b0399aa37b303b6ccaf\jetified-ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\3f77e6c2b5217b0399aa37b303b6ccaf\jetified-ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2ca9485ae4e185026859cdd74cf6a637\jetified-react-native-0.64.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2ca9485ae4e185026859cdd74cf6a637\jetified-react-native-0.64.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\306ad9db72dc4c6a8a5b709b909caa91\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\306ad9db72dc4c6a8a5b709b909caa91\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8f04cfcea4f902d5cf6f86d4b5c32cbe\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8f04cfcea4f902d5cf6f86d4b5c32cbe\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\10c496cc37130e2740ead20359264e2e\jetified-firebase-analytics-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\10c496cc37130e2740ead20359264e2e\jetified-firebase-analytics-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f642aa7ef4da262e164cc58056070219\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f642aa7ef4da262e164cc58056070219\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\20abeb26ad7fce7cc0acecc1840beabe\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\20abeb26ad7fce7cc0acecc1840beabe\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:react-native-reanimated] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-reanimated\android\build\.transforms\d80d3352b234596ed2d72dc74d40656b\jetified-react-native-reanimated-64\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-reanimated\android\build\.transforms\d80d3352b234596ed2d72dc74d40656b\jetified-react-native-reanimated-64\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\44ba79ed24abd40adbd07b75f051305a\jetified-flipper-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\44ba79ed24abd40adbd07b75f051305a\jetified-flipper-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f69240e1d1a50269cbca88db68b60ed0\jetified-stetho-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f69240e1d1a50269cbca88db68b60ed0\jetified-stetho-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c15dcdfabf01f0a6f89ed84665e92a1e\jetified-fresco-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c15dcdfabf01f0a6f89ed84665e92a1e\jetified-fresco-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\85be96ce1f0fe57cba7cee8c1307d26f\jetified-drawee-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\85be96ce1f0fe57cba7cee8c1307d26f\jetified-drawee-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\69360acc3529d0c06a6563e4294f1bb2\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\69360acc3529d0c06a6563e4294f1bb2\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\b39294047030397d02e53ff0456beef1\jetified-memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\b39294047030397d02e53ff0456beef1\jetified-memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\161b6cfbfe781d7831ba61ffbd34afe7\jetified-memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\161b6cfbfe781d7831ba61ffbd34afe7\jetified-memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\3c25ee96826cdcbc9c18ead8a2d7819e\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\3c25ee96826cdcbc9c18ead8a2d7819e\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d7340384edff4c3a14474c10f5d3e3d8\jetified-soloader-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d7340384edff4c3a14474c10f5d3e3d8\jetified-soloader-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8d8f2d0f0a72d9a7c72afd717db574d2\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8d8f2d0f0a72d9a7c72afd717db574d2\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a0b73dacfcc1fb85bdf8f368e9c0648b\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a0b73dacfcc1fb85bdf8f368e9c0648b\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c993706144745f80c69bc08600221316\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c993706144745f80c69bc08600221316\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\591b6a64b8a1777d202e27181f264801\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\591b6a64b8a1777d202e27181f264801\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e1cb07d99fdc540916b8f64a7e67be72\jetified-imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e1cb07d99fdc540916b8f64a7e67be72\jetified-imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\02f8c0fe1ed537c9cb09162418a32ef8\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\02f8c0fe1ed537c9cb09162418a32ef8\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\5a11799d59480efb0351eda80cc0eb90\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\5a11799d59480efb0351eda80cc0eb90\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0129fc7ca7a41a16305de1c366351347\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0129fc7ca7a41a16305de1c366351347\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\bc19979994832a1585033050bc24d842\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\bc19979994832a1585033050bc24d842\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\6baf6846a4e5ac741958969dea8d620f\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\6baf6846a4e5ac741958969dea8d620f\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\18af0c4f726ecce14918999e20006f5a\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\18af0c4f726ecce14918999e20006f5a\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\af6ff0ba46c3ed6ed5ca4647e97d699d\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\af6ff0ba46c3ed6ed5ca4647e97d699d\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\95663bbf1f50537c5643860a59a8dd19\jetified-play-services-auth-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\95663bbf1f50537c5643860a59a8dd19\jetified-play-services-auth-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e22a02f41529a34661024ac343d5b08d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e22a02f41529a34661024ac343d5b08d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f1e1798e415a0346fe6b8cabcb4e0f20\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f1e1798e415a0346fe6b8cabcb4e0f20\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\41a9f77137500abed8c99a4d21393e91\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\41a9f77137500abed8c99a4d21393e91\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d4b70bbb6e58b948122db12d68bf7401\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d4b70bbb6e58b948122db12d68bf7401\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e6f2323d80f54e3e74901eff4fd3c12d\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e6f2323d80f54e3e74901eff4fd3c12d\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\098a71275133558a5da8027e6eda3572\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\098a71275133558a5da8027e6eda3572\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a69bc6cd5c0a1073aece8f5ce7dcdbbc\jetified-firebase-installations-16.3.5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a69bc6cd5c0a1073aece8f5ce7dcdbbc\jetified-firebase-installations-16.3.5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\3b1981b46c000041fe3a1e7dcd1a63e1\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\3b1981b46c000041fe3a1e7dcd1a63e1\jetified-firebase-installations-interop-16.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a611210796d9e2308aaf7c5411342883\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a611210796d9e2308aaf7c5411342883\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8a27f6ca89bd01b016883e3a7ec4d1cc\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8a27f6ca89bd01b016883e3a7ec4d1cc\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\62ff64115e373c2cfb391cec5557c1ac\jetified-play-services-measurement-sdk-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\62ff64115e373c2cfb391cec5557c1ac\jetified-play-services-measurement-sdk-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a67cff56b0e90b6df01cd52b44ad5b1e\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a67cff56b0e90b6df01cd52b44ad5b1e\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2bdc62ee08beb2c39eac17344c3cb68d\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2bdc62ee08beb2c39eac17344c3cb68d\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\56b7278a1825b14ef0853169fac9e085\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\56b7278a1825b14ef0853169fac9e085\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\42711444d9c2852d496d9f94c92d4047\jetified-play-services-measurement-base-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\42711444d9c2852d496d9f94c92d4047\jetified-play-services-measurement-base-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\66ad38c522786a44122070db54aec826\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\66ad38c522786a44122070db54aec826\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e70449876b30ad478c54a0005d60d159\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e70449876b30ad478c54a0005d60d159\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\070ba0359a677b41301d6d2aab276bc6\jetified-play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\070ba0359a677b41301d6d2aab276bc6\jetified-play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ad3bd0b57c74701676ba25a93f656b4\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ad3bd0b57c74701676ba25a93f656b4\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\15801d1218ef16e7b1662ec8270b64b5\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\15801d1218ef16e7b1662ec8270b64b5\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\06aa6eb1bc41d0f96c2530fe9713c181\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\06aa6eb1bc41d0f96c2530fe9713c181\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ddf61f4bd32239a1e69886c23bc7d841\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ddf61f4bd32239a1e69886c23bc7d841\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2c02c456275792decc2af0c530ff1a03\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\2c02c456275792decc2af0c530ff1a03\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8e2f29bb79eb941be212a6c2ef3d15d7\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8e2f29bb79eb941be212a6c2ef3d15d7\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\084f18265170ca7bed9fd0b3a0ec8344\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\084f18265170ca7bed9fd0b3a0ec8344\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\b092ae7636dc49a2652331c7a875379d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\b092ae7636dc49a2652331c7a875379d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\942b80847efdc4efa0660e5034eefd04\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\942b80847efdc4efa0660e5034eefd04\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8682146fa70b6a595c5a728c3c19efe7\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8682146fa70b6a595c5a728c3c19efe7\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8c039f0bdb1ba4de09c8f3f2ccbd5bd8\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8c039f0bdb1ba4de09c8f3f2ccbd5bd8\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0dcc506234973a10ccc2d1809ada54fe\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0dcc506234973a10ccc2d1809ada54fe\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4f2353ec89a8e8d65f4ac7828843d0d8\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4f2353ec89a8e8d65f4ac7828843d0d8\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\7c15eaf4d362a8a4017c1fdf70a6b667\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\7c15eaf4d362a8a4017c1fdf70a6b667\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c885a3d5eeea20f5698d697f078052f3\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c885a3d5eeea20f5698d697f078052f3\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f8f4f6fbef5701db974204f29bec38e4\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\f8f4f6fbef5701db974204f29bec38e4\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\84c3f8cb319a667ce8e58c8b71c171c6\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\84c3f8cb319a667ce8e58c8b71c171c6\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\642eb1a15824984f869763b46da0c543\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\642eb1a15824984f869763b46da0c543\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a22b7b486ef60005a9c73af57e330c2e\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a22b7b486ef60005a9c73af57e330c2e\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\16459ced505aec226811f2c380738278\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\16459ced505aec226811f2c380738278\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d802af21c5911069399163e6e6bac6f4\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d802af21c5911069399163e6e6bac6f4\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\560a626687d93bf4bd62b3b229ab2356\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\560a626687d93bf4bd62b3b229ab2356\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c082a54df3103df1bcc6389d992f3c37\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\c082a54df3103df1bcc6389d992f3c37\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\9d6ee4d83393be2842018616e28215c2\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\9d6ee4d83393be2842018616e28215c2\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\62611bad11d8f59650424ddff89e6aa1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\62611bad11d8f59650424ddff89e6aa1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\172c738307d0633d64adc26f1bd788b3\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\172c738307d0633d64adc26f1bd788b3\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ece1a2c915ac6c93348f491d8f5061c7\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ece1a2c915ac6c93348f491d8f5061c7\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a120fa9e9f15a73c840d520098c54595\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a120fa9e9f15a73c840d520098c54595\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ac80ca8ab92ea68fab02431c761ac255\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\ac80ca8ab92ea68fab02431c761ac255\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e8e005d0f438a9b65dee1ed78d80d4d2\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e8e005d0f438a9b65dee1ed78d80d4d2\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\610c91351b797146d6dbc58ddc88186c\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\610c91351b797146d6dbc58ddc88186c\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e24a19467ffcd1a63fb14c7e9c17011c\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e24a19467ffcd1a63fb14c7e9c17011c\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\52e297dda173871b77ad2b7ad04da76c\jetified-ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\52e297dda173871b77ad2b7ad04da76c\jetified-ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
 INJECTED from C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\debug\AndroidManifest.xml
 INJECTED from C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
@@ -381,48 +481,164 @@ ADDED from C:\projects\2021\felix-travel-complete-react-native-travel-app-templa
 	android:name
 		ADDED from C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\android\app\src\debug\AndroidManifest.xml:11:19-83
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\bc2c9bec221a3d84396efca9c855ccc6\jetified-flipper-0.75.1\AndroidManifest.xml:16:5-76
+ADDED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\743ba5ccbb6045574d48de95cb671355\jetified-flipper-0.75.1\AndroidManifest.xml:16:5-76
 	android:name
-		ADDED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\bc2c9bec221a3d84396efca9c855ccc6\jetified-flipper-0.75.1\AndroidManifest.xml:16:22-73
+		ADDED from [com.facebook.flipper:flipper:0.75.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\743ba5ccbb6045574d48de95cb671355\jetified-flipper-0.75.1\AndroidManifest.xml:16:22-73
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
 ADDED from [:react-native-maps] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
 	android:name
 		ADDED from [:react-native-maps] C:\projects\2021\felix-travel-complete-react-native-travel-app-template\source\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-78
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
-	android:name
-		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
-uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
-	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
-uses-library#org.apache.http.legacy
-ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
-	android:name
-		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\0056b457fafe2926dc36592f7cbe14f4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\073e7f7a2978c2a552bb1ecf5258fb0f\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\073e7f7a2978c2a552bb1ecf5258fb0f\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\073e7f7a2978c2a552bb1ecf5258fb0f\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\073e7f7a2978c2a552bb1ecf5258fb0f\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
 meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
-ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d85912c1fb9a6a3cb5eae0425f7da4ec\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:11:9-13:43
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\18af0c4f726ecce14918999e20006f5a\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:11:9-13:43
 	android:value
-		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d85912c1fb9a6a3cb5eae0425f7da4ec\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:13:13-40
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\18af0c4f726ecce14918999e20006f5a\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:13:13-40
 	android:name
-		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\d85912c1fb9a6a3cb5eae0425f7da4ec\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:12:13-84
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\18af0c4f726ecce14918999e20006f5a\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:12:13-84
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\95663bbf1f50537c5643860a59a8dd19\jetified-play-services-auth-19.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\95663bbf1f50537c5643860a59a8dd19\jetified-play-services-auth-19.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\95663bbf1f50537c5643860a59a8dd19\jetified-play-services-auth-19.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\95663bbf1f50537c5643860a59a8dd19\jetified-play-services-auth-19.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\95663bbf1f50537c5643860a59a8dd19\jetified-play-services-auth-19.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\95663bbf1f50537c5643860a59a8dd19\jetified-play-services-auth-19.0.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\95663bbf1f50537c5643860a59a8dd19\jetified-play-services-auth-19.0.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\95663bbf1f50537c5643860a59a8dd19\jetified-play-services-auth-19.0.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\95663bbf1f50537c5643860a59a8dd19\jetified-play-services-auth-19.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\95663bbf1f50537c5643860a59a8dd19\jetified-play-services-auth-19.0.0\AndroidManifest.xml:34:13-89
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e22a02f41529a34661024ac343d5b08d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\098a71275133558a5da8027e6eda3572\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\098a71275133558a5da8027e6eda3572\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a69bc6cd5c0a1073aece8f5ce7dcdbbc\jetified-firebase-installations-16.3.5\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a69bc6cd5c0a1073aece8f5ce7dcdbbc\jetified-firebase-installations-16.3.5\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a67cff56b0e90b6df01cd52b44ad5b1e\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a67cff56b0e90b6df01cd52b44ad5b1e\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\56b7278a1825b14ef0853169fac9e085\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\56b7278a1825b14ef0853169fac9e085\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e22a02f41529a34661024ac343d5b08d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e22a02f41529a34661024ac343d5b08d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e22a02f41529a34661024ac343d5b08d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e22a02f41529a34661024ac343d5b08d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e22a02f41529a34661024ac343d5b08d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e22a02f41529a34661024ac343d5b08d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e22a02f41529a34661024ac343d5b08d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e6f2323d80f54e3e74901eff4fd3c12d\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e6f2323d80f54e3e74901eff4fd3c12d\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e6f2323d80f54e3e74901eff4fd3c12d\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\e6f2323d80f54e3e74901eff4fd3c12d\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\098a71275133558a5da8027e6eda3572\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a67cff56b0e90b6df01cd52b44ad5b1e\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a67cff56b0e90b6df01cd52b44ad5b1e\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\56b7278a1825b14ef0853169fac9e085\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\56b7278a1825b14ef0853169fac9e085\jetified-play-services-measurement-sdk-api-18.0.2\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\098a71275133558a5da8027e6eda3572\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\098a71275133558a5da8027e6eda3572\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a69bc6cd5c0a1073aece8f5ce7dcdbbc\jetified-firebase-installations-16.3.5\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a69bc6cd5c0a1073aece8f5ce7dcdbbc\jetified-firebase-installations-16.3.5\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\098a71275133558a5da8027e6eda3572\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:29:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\098a71275133558a5da8027e6eda3572\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\098a71275133558a5da8027e6eda3572\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\098a71275133558a5da8027e6eda3572\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\098a71275133558a5da8027e6eda3572\jetified-play-services-measurement-api-18.0.2\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a69bc6cd5c0a1073aece8f5ce7dcdbbc\jetified-firebase-installations-16.3.5\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a69bc6cd5c0a1073aece8f5ce7dcdbbc\jetified-firebase-installations-16.3.5\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a69bc6cd5c0a1073aece8f5ce7dcdbbc\jetified-firebase-installations-16.3.5\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\1ec8bbaafe16d847fb4a2e02046b8adf\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a67cff56b0e90b6df01cd52b44ad5b1e\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\a67cff56b0e90b6df01cd52b44ad5b1e\jetified-play-services-measurement-impl-18.0.2\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\4fdcf8a94ef07ef003da7f9f58d21657\jetified-play-services-measurement-18.0.2\AndroidManifest.xml:40:13-87
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\85928f3cbe55e5dab6237461edea784e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8d00cda4c4977f6e787cbb9c52024a59\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
-MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\8d00cda4c4977f6e787cbb9c52024a59\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\070ba0359a677b41301d6d2aab276bc6\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\610c91351b797146d6dbc58ddc88186c\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\610c91351b797146d6dbc58ddc88186c\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\85928f3cbe55e5dab6237461edea784e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\070ba0359a677b41301d6d2aab276bc6\jetified-play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\85928f3cbe55e5dab6237461edea784e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Mosima\.gradle\caches\transforms-2\files-2.1\070ba0359a677b41301d6d2aab276bc6\jetified-play-services-basement-17.1.1\AndroidManifest.xml:24:13-58

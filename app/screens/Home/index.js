@@ -83,7 +83,26 @@ export default function Home({navigation}) {
       location: 'Tobacco Dock, London',
     },
   ]);
-  const [promotion] = useState(PromotionData);
+
+  const result = [];
+  const map = new Map();
+  for (const item of PromotionData) {
+    if (!map.has(item.product_name)) {
+      map.set(item.product_name, true);    // set any value to Map
+      result.push({
+        product_id: item.product_id,
+        product_name: item.product_name,
+        supplier_name: item.supplier_name,
+        product_type: item.product_type,
+        product_discription: item.product_discription,
+        price: item.price,
+        terminal_user: item.terminal_user,
+        image: item.image,
+        type: item.type
+      });
+    }
+  }
+  const [promotion] = useState(result);
   const [tours] = useState(TourData);
   const [hotels] = useState(HotelData);
   const [heightHeader, setHeightHeader] = useState(Utils.heightHeader());
@@ -95,6 +114,11 @@ export default function Home({navigation}) {
    * @date 2019-08-03
    * @returns
    */
+
+  console.log("object", [...new Set(promotion.map(x => x.supplier_name))]);
+
+
+console.log(result)
   const renderIconService = () => {
     return (
       <FlatList
@@ -126,7 +150,7 @@ export default function Home({navigation}) {
 
   const heightImageBanner = Utils.scaleWithPixel(140);
   const marginTopBanner = heightImageBanner - heightHeader;
-
+  
   return (
     <View style={{flex: 1}}>
       <Animated.Image
@@ -189,32 +213,34 @@ export default function Home({navigation}) {
               horizontal={true}
               showsHorizontalScrollIndicator={false}
               data={promotion}
-              keyExtractor={(item, index) => item.id}
-              renderItem={({item, index}) => (
-                <Card
-                  style={[styles.promotionItem, {marginLeft: 15}]}
-                  image={item.image}
-                  onPress={() => navigation.navigate('Booking')}
-                  
-                  >
-                  <Text subhead whiteColor>
-                    {item.title1}
-                  </Text>
-                  <Text title2 whiteColor semibold>
-                    {item.title2}
-                  </Text>
-                  <View style={styles.contentCartPromotion}>
-                    <Button
-                      style={styles.btnPromotion}
-                      onPress={() => {
-                        //navigation.navigate('PreviewBooking');
-                      }}>
-                      <Text body2 semibold whiteColor>
-                        {t('book_now')}
+              keyExtractor={(item, index) => item.product_id}
+              renderItem={({ item, index }) => (
+                  item.type === "airtime" ?
+                    <Card
+                      style={[styles.promotionItem, { marginLeft: 15 }]}
+                      image={item.image}
+                      onPress={() => navigation.navigate('Booking')}
+
+                    >
+                      <Text subhead whiteColor>
+                        {item.supplier_name}
                       </Text>
-                    </Button>
-                  </View>
-                </Card>
+                      <Text title2 whiteColor semibold>
+                        {item.title2}
+                      </Text>
+                      <View style={styles.contentCartPromotion}>
+                        <Button
+                          style={styles.btnPromotion}
+                          onPress={() => {
+                            //navigation.navigate('PreviewBooking');
+                          }}>
+                          <Text body2 semibold whiteColor>
+                            {t('book_now')}
+                          </Text>
+                        </Button>
+                      </View>
+                    </Card>
+                    : null
               )}
             />
           </View>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555726878360",
+    "project_id": "onetime-fcf2a",
+    "storage_bucket": "onetime-fcf2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555726878360:android:8684b956c043eff2c342ed",
+        "android_client_info": {
+          "package_name": "com.felixpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555726878360-q2koou3cuh4fo3k41t95onm5vplqan8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARHWbnbmF2rVtSskQOSh49tiIZlsU5D0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555726878360-q2koou3cuh4fo3k41t95onm5vplqan8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
