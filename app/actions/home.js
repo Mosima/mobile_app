@@ -1,6 +1,6 @@
 import * as homeTypes from "./homeTypes";
 
-const buyNow = data => {
+export const buyNow = data => {
   return {
     type: homeTypes.BUY_NOW,
     data

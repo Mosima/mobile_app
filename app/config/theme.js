@@ -181,7 +181,7 @@ export const DefaultTheme = {
         primary: '#58e200',
         primaryDark: '#388E3C',
         primaryLight: '#C8E6C9',
-        altPrimaryL:'#ad6db9',
+        altPrimaryL:'#6f397d',
         accent: '#607D8B',
         background: 'white',
         card: '#F5F5F5',

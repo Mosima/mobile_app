@@ -10,7 +10,7 @@ import Modal from 'react-native-modal';
 export default function BookingHistory(props) {
   const { t } = useTranslation();
   const { colors } = useTheme();
-  const { style, name, checkIn, checkOut, price, total, onPress, image } = props;
+  const { style, name, checkIn, checkOut, price, total, onPress, image, qty } = props;
 
   const [modalVisible, setModalVisible] = useState(false)
   const [itemValue, setitemValue] = useState(
@@ -178,7 +178,8 @@ export default function BookingHistory(props) {
         </View>
         <View style={{ flex: 1, alignItems: 'flex-end' }}>
           <Text caption2 whiteColor>
-            {t('check_in')}
+            {/* {t('check_in')} */}
+            {qty}
           </Text>
           <Text body1 whiteColor semibold>
             {checkIn}

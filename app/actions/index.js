@@ -1,5 +1,5 @@
 import * as AuthActions from "./auth";
 import * as ApplicationActions from "./application";
-import * as homeActions from "./home";
+import * as HomeActions from "./home";
 
-export { AuthActions, ApplicationActions, homeActions };
+export { AuthActions, ApplicationActions, HomeActions };

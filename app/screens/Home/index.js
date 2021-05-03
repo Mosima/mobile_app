@@ -1,4 +1,5 @@
 import React, {useState} from 'react';
+import {useSelector, useDispatch} from 'react-redux';
 import {
   View,
   ScrollView,
@@ -20,9 +21,15 @@ import {BaseStyle, Images, useTheme} from '@config';
 import * as Utils from '@utils';
 import styles from './styles';
 import {PromotionData, TourData, HotelData} from '@data';
+import {HomeActions} from '@actions';
+
 import {useTranslation} from 'react-i18next';
 
 export default function Home({navigation}) {
+  const cart = useSelector(state => state.home.cart);
+
+  // console.log("CART", cart);
+  const dispatch = useDispatch();
   const {t} = useTranslation();
   const {colors} = useTheme();
   const [icons] = useState([
@@ -115,10 +122,9 @@ export default function Home({navigation}) {
    * @returns
    */
 
-  console.log("object", [...new Set(promotion.map(x => x.supplier_name))]);
+  
 
 
-console.log(result)
   const renderIconService = () => {
     return (
       <FlatList
@@ -139,7 +145,7 @@ console.log(result)
                 <Icon name={item.icon} size={18} color={colors.altPrimaryL} solid />
               </View>
               <Text footnote grayColor numberOfLines={1}>
-                {t(item.name)}
+             {t(item.name)}
               </Text>
             </TouchableOpacity>
           );
@@ -215,12 +221,20 @@ console.log(result)
               data={promotion}
               keyExtractor={(item, index) => item.product_id}
               renderItem={({ item, index }) => (
-                  item.type === "airtime" ?
+                  item.product_type === "Airtime" ?
                     <Card
                       style={[styles.promotionItem, { marginLeft: 15 }]}
                       image={item.image}
-                      onPress={() => navigation.navigate('Booking')}
-
+                      onPress={() => {
+                        navigation.navigate('Booking');
+                        let cartIterm = []
+                            cartIterm.push(item)
+                            // cartIterm[0].qty = 1
+                            // cartIterm[0].cartkey = 1
+                            // console.log('cartIterm', cartIterm);
+                            dispatch(HomeActions.buyNow(cartIterm));
+                      }}
+                      
                     >
                       <Text subhead whiteColor>
                         {item.supplier_name}
@@ -232,7 +246,13 @@ console.log(result)
                         <Button
                           style={styles.btnPromotion}
                           onPress={() => {
-                            //navigation.navigate('PreviewBooking');
+                            navigation.navigate('Booking');
+                            let cartIterm = []
+                            cartIterm.push(item)
+                            // cartIterm[0].qty = 1
+                            // cartIterm[0].cartkey = 1
+                            // console.log('cartIterm', cartIterm);
+                            dispatch(HomeActions.buyNow(cartIterm));
                           }}>
                           <Text body2 semibold whiteColor>
                             {t('book_now')}

@@ -7,7 +7,7 @@ const PromotionData =
     "supplier_name": "Vodacom",
     "product_type": "Airtime",
     "product_discription": " Vodacom 2",
-    "price": "2.00",
+    "price": "20.00",
     "terminal_user": "1",
     "image": Images["vodacom"],
     "type":"airtime"
