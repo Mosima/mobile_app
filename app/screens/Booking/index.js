@@ -37,7 +37,9 @@ export default function Booking({ navigation }) {
 // }]
 
   const renderItem = item => {
+
     return (
+      
       <BookingHistory
         name={`${item.supplier_name} ${item.product_type}`}
         checkIn={item.price}
@@ -72,7 +74,7 @@ export default function Booking({ navigation }) {
             onRefresh={() => { }}
           />
         }
-        data={cart?cart.filter(x => x.product_name):"Go to Home or Add from here.."}
+        data={cart.filter(x => x.user_id)}
         keyExtractor={(item, index) => item.id}
         renderItem={({ item }) => renderItem(item)}
       />

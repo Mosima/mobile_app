@@ -226,13 +226,13 @@ export default function Home({navigation}) {
                       style={[styles.promotionItem, { marginLeft: 15 }]}
                       image={item.image}
                       onPress={() => {
-                        navigation.navigate('Booking');
-                        let cartIterm = []
-                            cartIterm.push(item)
-                            // cartIterm[0].qty = 1
-                            // cartIterm[0].cartkey = 1
-                            // console.log('cartIterm', cartIterm);
-                            dispatch(HomeActions.buyNow(cartIterm));
+                        //navigation.navigate('Booking');
+                        // let cartIterm = []
+                        //     cartIterm.push(item)
+                        //     cartIterm[0].qty = 1
+                        //     cartIterm[0].cartkey = 1
+                        //     console.log('cartIterm', cartIterm);
+                          //dispatch(HomeActions.buyNow(item));
                       }}
                       
                     >
@@ -249,10 +249,10 @@ export default function Home({navigation}) {
                             navigation.navigate('Booking');
                             let cartIterm = []
                             cartIterm.push(item)
-                            // cartIterm[0].qty = 1
-                            // cartIterm[0].cartkey = 1
-                            // console.log('cartIterm', cartIterm);
-                            dispatch(HomeActions.buyNow(cartIterm));
+                            cartIterm[0].qty = 1
+                            cartIterm[0].cartkey = 1
+                            console.log('cartIterm', cartIterm[0]);
+                            dispatch(HomeActions.buyNow(cartIterm[0]));
                           }}>
                           <Text body2 semibold whiteColor>
                             {t('book_now')}
