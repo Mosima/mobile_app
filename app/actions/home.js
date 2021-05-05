@@ -6,3 +6,16 @@ export const buyNow = data => {
     data
   };
 };
+
+export const updateProduct = (product_id, calType) => {
+  return {
+    type: homeTypes.MODIFY_PRODUCT,
+    product_id,
+    calType
+  };
+};
+
+
+// export const fetchCart = () =>{
+
+// }

@@ -91,25 +91,8 @@ export default function Home({navigation}) {
     },
   ]);
 
-  const result = [];
-  const map = new Map();
-  for (const item of PromotionData) {
-    if (!map.has(item.product_name)) {
-      map.set(item.product_name, true);    // set any value to Map
-      result.push({
-        product_id: item.product_id,
-        product_name: item.product_name,
-        supplier_name: item.supplier_name,
-        product_type: item.product_type,
-        product_discription: item.product_discription,
-        price: item.price,
-        terminal_user: item.terminal_user,
-        image: item.image,
-        type: item.type
-      });
-    }
-  }
-  const [promotion] = useState(result);
+
+  const [promotion] = useState(PromotionData);
   const [tours] = useState(TourData);
   const [hotels] = useState(HotelData);
   const [heightHeader, setHeightHeader] = useState(Utils.heightHeader());
@@ -246,13 +229,12 @@ export default function Home({navigation}) {
                         <Button
                           style={styles.btnPromotion}
                           onPress={() => {
-                            navigation.navigate('Booking');
                             let cartIterm = []
                             cartIterm.push(item)
                             cartIterm[0].qty = 1
                             cartIterm[0].cartkey = 1
-                            console.log('cartIterm', cartIterm[0]);
                             dispatch(HomeActions.buyNow(cartIterm[0]));
+                            navigation.navigate('Booking');
                           }}>
                           <Text body2 semibold whiteColor>
                             {t('book_now')}

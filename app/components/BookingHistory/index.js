@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+import {useSelector, useDispatch} from 'react-redux';
 import { View, TouchableOpacity } from 'react-native';
 import { Text, Icon,Image} from '@components';
 import PropTypes from 'prop-types';
@@ -7,15 +8,20 @@ import { useTheme, BaseColor } from '@config';
 import { useTranslation } from 'react-i18next';
 import Modal from 'react-native-modal';
 
+import {HomeActions} from '@actions';
+
 export default function BookingHistory(props) {
+  const cart = useSelector(state => state.home.cart);
+  const dispatch = useDispatch();
   const { t } = useTranslation();
   const { colors } = useTheme();
-  const { style, name, checkIn, checkOut, price, total, onPress, image, qty } = props;
+  const { style, name, checkIn, checkOut, price, total, onPress, image, qty, product_id } = props;
 
   const [modalVisible, setModalVisible] = useState(false)
   const [itemValue, setitemValue] = useState(
     
   )
+  
 
   const openModal = (modal) => {
     setModalVisible(modal);
@@ -149,6 +155,11 @@ export default function BookingHistory(props) {
     );
   };
 
+  // useEffect(() => {
+  //   dispatch(HomeActions.fetchCart())
+  // // Safe to add dispatch to the dependencies array
+  // }, [dispatch])
+
 
   return (
     <TouchableOpacity
@@ -187,16 +198,16 @@ export default function BookingHistory(props) {
         </View>
       </View>
       <View style={[styles.validContent, { backgroundColor: colors.card }]}>
-      <TouchableOpacity /*onPress={() => setValue('up', 'adult')}*/>
-          <Icon name="plus-circle" size={24} color={colors.primary} />
-        </TouchableOpacity>
-
-        <TouchableOpacity /*onPress={() => setValue('down', 'adult')}*/ >
+      <TouchableOpacity onPress={() => dispatch(HomeActions.updateProduct(product_id, "sub"))} >
           <Icon
             name="minus-circle"
             size={24}
             color={BaseColor.grayColor}
           />
+        </TouchableOpacity>
+
+      <TouchableOpacity onPress={() => dispatch(HomeActions.updateProduct(product_id, "add"))}>
+          <Icon name="plus-circle" size={24} color={colors.primary} />
         </TouchableOpacity>
 
         <Text  semibold>
