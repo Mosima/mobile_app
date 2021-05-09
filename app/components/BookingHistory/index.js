@@ -21,7 +21,10 @@ export default function BookingHistory(props) {
   const [itemValue, setitemValue] = useState(
     
   )
-  
+  useEffect(() => {
+    cart
+    console.log("cart", cart);
+  }, [cart]);
 
   const openModal = (modal) => {
     setModalVisible(modal);
@@ -148,6 +151,7 @@ export default function BookingHistory(props) {
                   <Icon name="plus-circle" size={24} color={colors.primary} />
                 </TouchableOpacity>
               </View>
+              
             </View>
           </View>
         </Modal>

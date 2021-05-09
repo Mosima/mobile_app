@@ -10,10 +10,19 @@ export default StyleSheet.create({
     flexDirection: "column",
     justifyContent: "space-between",
     alignItems: "center",
-    paddingBottom: 30,
+    paddingBottom: 70,
     paddingLeft:50,
     marginLeft:200,
-    position: 'absolute',
-      bottom:0
+    //position: 'absolute',
+    bottom:0
   },
+  checkout:{
+    alignItems: "center",
+    //padding:40,
+    height:40,
+    color: '#fff',
+    backgroundColor: '#6f397d',
+    bottom:0,
+
+  }
 });

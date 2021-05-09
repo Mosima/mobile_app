@@ -9,9 +9,9 @@ console.disableYellowBox = true;
 export default function App() {
   return (
     <Provider store={store}>
-      <PersistGate loading={null} persistor={persistor}>
+      {/* <PersistGate loading={null} persistor={persistor}> */}
         <Navigator />
-      </PersistGate>
+      {/* </PersistGate> */}
     </Provider>
   );
 }

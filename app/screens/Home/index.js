@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useState, useEffect} from 'react';
 import {useSelector, useDispatch} from 'react-redux';
 import {
   View,
@@ -27,7 +27,16 @@ import {useTranslation} from 'react-i18next';
 
 export default function Home({navigation}) {
   const cart = useSelector(state => state.home.cart);
+  const [cs, setCs] = useState([]);
 
+
+  // const fetchCart = () => dispatch(HomeActions.getCart());
+
+
+  useEffect(() => {
+    setCs(cart)
+    console.log("cart", cart);
+  }, []);
   // console.log("CART", cart);
   const dispatch = useDispatch();
   const {t} = useTranslation();
@@ -105,7 +114,7 @@ export default function Home({navigation}) {
    * @returns
    */
 
-  
+
 
 
   const renderIconService = () => {
@@ -139,7 +148,7 @@ export default function Home({navigation}) {
 
   const heightImageBanner = Utils.scaleWithPixel(140);
   const marginTopBanner = heightImageBanner - heightHeader;
-  
+
   return (
     <View style={{flex: 1}}>
       <Animated.Image
@@ -217,7 +226,7 @@ export default function Home({navigation}) {
                         //     console.log('cartIterm', cartIterm);
                           //dispatch(HomeActions.buyNow(item));
                       }}
-                      
+
                     >
                       <Text subhead whiteColor>
                         {item.supplier_name}
