@@ -26,7 +26,7 @@ export default function Booking({ navigation }) {
     return (
       <View>
         <Modal
-          isVisible={modalVisible === 'quest'}
+          isVisible={modalVisible}
           onSwipeComplete={() => setModalVisible(false)}
           swipeDirection={['down']}
           style={styles.bottomModal}>
@@ -172,7 +172,7 @@ export default function Booking({ navigation }) {
         // }}
         />
         <View style={styles.iconRight}>
-          <TouchableOpacity onPress={() => renderModal(true)}>
+          <TouchableOpacity onPress={() => openModal(true)}>
             <Icon name="plus-circle" size={40} color={colors.altPrimaryL} />
           </TouchableOpacity>
         </View>
@@ -207,7 +207,7 @@ export default function Booking({ navigation }) {
       <View style={styles.checkout}>
         <TouchableOpacity style={{color: '#fff'}} onPress={() => setModalVisible(true)}>
           {/* <Icon name="plus-circle" title="add" size={40} color={colors.altPrimaryL} /> */}
-          <Text style={{color: '#fff'}}>Checkout</Text>
+          <Text style={{color: '#fff'}}>Checkout R180</Text>
         </TouchableOpacity>
       </View>
     </SafeAreaView>
