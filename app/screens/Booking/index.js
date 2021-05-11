@@ -10,7 +10,8 @@ import styles from './styles';
 import Modal from 'react-native-modal';
 
 export default function Booking({ navigation }) {
-  const cart = useSelector(state => state.home.cart);
+  const state = useSelector(state => state);
+  const cart = state.home.cart
   const { t } = useTranslation();
   const { colors } = useTheme();
 
@@ -27,7 +28,7 @@ export default function Booking({ navigation }) {
       <View>
         <Modal
           isVisible={modalVisible}
-          onSwipeComplete={() => setModalVisible(false)}
+          onSwipeComplete={() => openModal(false)}
           swipeDirection={['down']}
           style={styles.bottomModal}>
           <View
@@ -43,10 +44,10 @@ export default function Booking({ navigation }) {
                 styles.contentActionModalBottom,
                 { borderBottomColor: colors.border },
               ]}>
-              <TouchableOpacity onPress={() => setModalVisible(false)}>
+              <TouchableOpacity onPress={() => openModal(false)}>
                 <Text body1>{t('cancel')}</Text>
               </TouchableOpacity>
-              <TouchableOpacity onPress={() => setModalVisible(false)}>
+              <TouchableOpacity onPress={() => openModal(false)}>
                 <Text body1 primaryColor>
                   {t('save')}
                 </Text>
@@ -98,7 +99,7 @@ export default function Booking({ navigation }) {
         </Modal>
         <Modal
           isVisible={modalVisible === 'duration'}
-          onSwipeComplete={() => setModalVisible(false)}
+          onSwipeComplete={() => openModal(false)}
           swipeDirection={['down']}
           style={styles.bottomModal}>
           <View
@@ -114,10 +115,10 @@ export default function Booking({ navigation }) {
                 styles.contentActionModalBottom,
                 { borderBottomColor: colors.border },
               ]}>
-              <TouchableOpacity onPress={() => setModalVisible(false)}>
+              <TouchableOpacity onPress={() => openModal(false)}>
                 <Text body1>{t('cancel')}</Text>
               </TouchableOpacity>
-              <TouchableOpacity onPress={() => setModalVisible(false)}>
+              <TouchableOpacity onPress={() => openModal(false)}>
                 <Text body1 primaryColor>
                   {t('save')}
                 </Text>

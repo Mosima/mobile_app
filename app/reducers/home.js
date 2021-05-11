@@ -21,14 +21,17 @@ export default (state = initialState, action = {}) => {
           }
         })
         : res.push(action.data)
-
+      
       return {
-        ...state,
-        cart: res
+        cart: {res}
       };
     case  homeTypes.MODIFY_PRODUCT:
       let res1 = state.cart;
-      const result1 = res1.find(({ product_id }) => product_id === action.product_id)
+      const result1 = res1.find(({ product_id }) => product_id === action.product_id);
+      console.log("result1", result1);
+      console.log("action.product_id", action.product_id);
+      console.log("action.calType", action.calType);
+
       result1 && action.calType === "add"?
       res1.forEach((element, index) => {
           if (element.product_id === result1.product_id) {
@@ -47,7 +50,6 @@ export default (state = initialState, action = {}) => {
           }
         })
       return {
-        ...state,
         cart: res1
       }
     default:
