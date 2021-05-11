@@ -298,17 +298,17 @@ const PromotionData =
   //   "image": Images["mtn"],
   //   "type":""
   // },
-  // {
-  //   "product_id": "10",
-  //   "product_name": "MTN_5",
-  //   "supplier_name": "MTN",
-  //   "product_type": "Airtime",
-  //   "product_discription": "MTN 5",
-  //   "price": "5.00",
-  //   "terminal_user": "1",
-  //   "image": Images["mtn"],
-  //   "type":"airtime"
-  // },
+  {
+    "product_id": "10",
+    "product_name": "MTN_5",
+    "supplier_name": "MTN",
+    "product_type": "Airtime",
+    "product_discription": "MTN 5",
+    "price": "5.00",
+    "terminal_user": "1",
+    "image": Images["mtn"],
+    "type":"airtime"
+  },
   // {
   //   "product_id": "11",
   //   "product_name": "MTN_10",

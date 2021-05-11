@@ -1,2 +1,3 @@
 export const BUY_NOW = 'BUY_NOW';
 export const MODIFY_PRODUCT = 'MODIFY_PRODUCT'
+export const MODIFY_CART_COUNT = 'MODIFY_CART_COUNT'

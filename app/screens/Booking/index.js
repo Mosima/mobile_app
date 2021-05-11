@@ -157,21 +157,26 @@ export default function Booking({ navigation }) {
 
     return (
       <View>
-        <BookingHistory
-          key={item.product_id}
-          name={`${item.supplier_name} ${item.product_type}`}
-          checkIn={item.price}
-          checkOut={item.price}
-          total={item.newPrice ? item.newPrice : item.price}
-          price={item.price}
-          style={{ paddingVertical: 10, marginHorizontal: 20 }}
-          qty={item.qty}
-          image={item.image}
-          product_id={item.product_id}
-        // onPress={() => {
-        //   navigation.navigate('BookingDetail');
-        // }}
-        />
+        {
+          item.qty > 0 ?
+            <BookingHistory
+              key={item.product_id}
+              name={`${item.supplier_name} ${item.product_type}`}
+              checkIn={item.price}
+              checkOut={item.price}
+              total={item.newPrice ? item.newPrice : item.price}
+              price={item.price}
+              style={{ paddingVertical: 10, marginHorizontal: 20 }}
+              qty={item.qty}
+              image={item.image}
+              product_id={item.product_id}
+            // onPress={() => {
+            //   navigation.navigate('BookingDetail');
+            // }}
+            />
+            : <Text>Add Items to your cart</Text>
+        }
+        
         <View style={styles.iconRight}>
           <TouchableOpacity onPress={() => openModal(true)}>
             <Icon name="plus-circle" size={40} color={colors.altPrimaryL} />

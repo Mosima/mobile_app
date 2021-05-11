@@ -23,7 +23,7 @@ export default (state = initialState, action = {}) => {
         : res.push(action.data)
       
       return {
-        cart: {res}
+        cart: res
       };
     case  homeTypes.MODIFY_PRODUCT:
       let res1 = state.cart;

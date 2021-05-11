@@ -215,7 +215,7 @@ export default function BookingHistory(props) {
         </TouchableOpacity>
 
         <Text  semibold>
-          {total}
+          R{total}
         </Text>
         <Text overline semibold>
           {/* {price} */}
