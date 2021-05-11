@@ -2,6 +2,8 @@ import * as homeTypes from "@actions/homeTypes";
 
 const initialState = {
   cart: [],
+  cartCount: 0,
+  cartTotal: 0
 };
 
 
@@ -51,6 +53,14 @@ export default (state = initialState, action = {}) => {
         })
       return {
         cart: res1
+      }
+    case homeTypes.MODIFY_CART_TOTAL_PRICE:
+      return {
+        cartTotal: action.totPrice
+      }
+    case homeTypes.MODIFY_CART_COUNT:
+      return {
+        cartCount: action.count
       }
     default:
       return state;

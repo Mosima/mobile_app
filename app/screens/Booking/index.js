@@ -156,9 +156,7 @@ export default function Booking({ navigation }) {
   const renderItem = item => {
 
     return (
-      <View>
-        {
-          item.qty > 0 ?
+  
             <BookingHistory
               key={item.product_id}
               name={`${item.supplier_name} ${item.product_type}`}
@@ -173,17 +171,7 @@ export default function Booking({ navigation }) {
             // onPress={() => {
             //   navigation.navigate('BookingDetail');
             // }}
-            />
-            : <Text>Add Items to your cart</Text>
-        }
-        
-        <View style={styles.iconRight}>
-          <TouchableOpacity onPress={() => openModal(true)}>
-            <Icon name="plus-circle" size={40} color={colors.altPrimaryL} />
-          </TouchableOpacity>
-        </View>
-        {renderModal()}
-      </View>
+            />   
     );
   };
 
@@ -209,7 +197,12 @@ export default function Booking({ navigation }) {
         keyExtractor={(item, index) => item.id}
         renderItem={({ item }) => renderItem(item)}
       />
-
+      <View style={styles.iconRight}>
+          <TouchableOpacity onPress={() => openModal(true)}>
+            <Icon name="plus-circle" size={40} color={colors.altPrimaryL} />
+          </TouchableOpacity>
+        </View>
+        {renderModal()}
       <View style={styles.checkout}>
         <TouchableOpacity style={{color: '#fff'}} onPress={() => setModalVisible(true)}>
           {/* <Icon name="plus-circle" title="add" size={40} color={colors.altPrimaryL} /> */}

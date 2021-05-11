@@ -8,6 +8,7 @@ export const buyNow = data => {
   })
 
   dispacth(fetchCartNum())
+  dispacth(fetchCartTotal())
 };
 };
 
@@ -19,6 +20,7 @@ export const updateProduct = (product_id, calType) => {
     calType
   })
   dispacth(fetchCartNum())
+  dispacth(fetchCartTotal())
 };
 };
 
@@ -26,12 +28,21 @@ export const updateProduct = (product_id, calType) => {
 export const fetchCartNum = () => {
   return (dispacth, getState) => {
     let count = getState().home.cart.length
-    console.log("count", count);
-    console.log("count", count);
-    console.log("count", count);
     dispacth({
       type: homeTypes.MODIFY_CART_COUNT,
       count: count
+    })
+
+  };
+}
+
+export const fetchCartTotal = () => {
+  return (dispacth, getState) => {
+    let totPrice = getState().home.cart?getState().home.cart.reduce((a,b) => b.newPrice + (a.newPrice ? a.newPrice : a)):0
+    console.log(totPrice);
+    dispacth({
+      type: homeTypes.MODIFY_CART_TOTAL_PRICE,
+      totPrice: totPrice
     })
 
   };
