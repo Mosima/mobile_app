@@ -12,6 +12,10 @@ import Modal from 'react-native-modal';
 export default function Booking({ navigation }) {
   const state = useSelector(state => state);
   const cart = state.home.cart
+  const cartCount = state.home.cartCount
+  const cartTotal = state.home.cartTotal
+
+
   const { t } = useTranslation();
   const { colors } = useTheme();
 
@@ -49,39 +53,33 @@ export default function Booking({ navigation }) {
               </TouchableOpacity>
               <TouchableOpacity onPress={() => openModal(false)}>
                 <Text body1 primaryColor>
-                  {t('save')}
+                  {/* {t('save')} */}
+                  Checkout
                 </Text>
               </TouchableOpacity>
             </View>
             <View style={styles.lineRow}>
               <View>
-                <Text body1>{t('adults')}</Text>
+                <Text body1>Total</Text>
                 <Text caption1 grayColor>
-                  16+ {t('years')}
+                  items {cartCount}
                 </Text>
               </View>
               <View style={styles.iconRight}>
-                <TouchableOpacity onPress={() => setValue('down', 'adult')}>
-                  <Icon
-                    name="minus-circle"
-                    size={24}
-                    color={BaseColor.grayColor}
-                  />
-                </TouchableOpacity>
-                <Text title1>adult</Text>
-                <TouchableOpacity onPress={() => setValue('up', 'adult')}>
-                  <Icon name="plus-circle" size={24} color={colors.primary} />
-                </TouchableOpacity>
+               
+  
+                <Text title1>R{cartTotal}</Text>
+               
               </View>
             </View>
             <View style={styles.lineRow}>
-              <View>
+              {/* <View>
                 <Text body1>{t('children')}</Text>
                 <Text caption1 grayColor>
                   2-11 {t('years')}
                 </Text>
-              </View>
-              <View style={styles.iconRight}>
+              </View> */}
+              {/* <View style={styles.iconRight}>
                 <TouchableOpacity onPress={() => setValue('down', 'children')}>
                   <Icon
                     name="minus-circle"
@@ -93,7 +91,7 @@ export default function Booking({ navigation }) {
                 <TouchableOpacity onPress={() => setValue('up', 'children')}>
                   <Icon name="plus-circle" size={24} color={colors.primary} />
                 </TouchableOpacity>
-              </View>
+              </View> */}
             </View>
           </View>
         </Modal>
@@ -120,7 +118,8 @@ export default function Booking({ navigation }) {
               </TouchableOpacity>
               <TouchableOpacity onPress={() => openModal(false)}>
                 <Text body1 primaryColor>
-                  {t('save')}
+                  {/* {t('save')} */}
+                  Checkout
                 </Text>
               </TouchableOpacity>
             </View>
@@ -193,12 +192,12 @@ export default function Booking({ navigation }) {
             onRefresh={() => { }}
           />
         }
-        data={cart ? cart.filter(x => x.product_discription !== "") : []}
+        data={cart ? cart.filter(x => x.product_discription !== "" && x.qty !== 0) : []}
         keyExtractor={(item, index) => item.id}
         renderItem={({ item }) => renderItem(item)}
       />
       <View style={styles.iconRight}>
-          <TouchableOpacity onPress={() => openModal(true)}>
+          <TouchableOpacity >
             <Icon name="plus-circle" size={40} color={colors.altPrimaryL} />
           </TouchableOpacity>
         </View>
@@ -206,7 +205,7 @@ export default function Booking({ navigation }) {
       <View style={styles.checkout}>
         <TouchableOpacity style={{color: '#fff'}} onPress={() => setModalVisible(true)}>
           {/* <Icon name="plus-circle" title="add" size={40} color={colors.altPrimaryL} /> */}
-          <Text style={{color: '#fff'}}>Checkout R180</Text>
+          <Text style={{color: '#fff'}}>Checkout</Text>
         </TouchableOpacity>
       </View>
     </SafeAreaView>

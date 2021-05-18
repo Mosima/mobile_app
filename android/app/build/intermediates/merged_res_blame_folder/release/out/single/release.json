@@ -1,0 +1,650 @@
+[
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e1.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e1.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_interio2.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_interio2.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_car1.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_car1.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_avata02.jpeg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_avata02.jpeg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_event4.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_event4.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_room2.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_room2.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_hotel04.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_hotel04.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_profile6.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_profile6.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e8.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e8.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_logo.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_logo.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_room9.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_room9.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e2.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e2.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_profile5.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_profile5.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_km.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_km.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_event5.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_event5.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e15.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e15.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_nl.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_nl.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_interio1.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_interio1.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_trip4.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_trip4.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_background_01.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_background_01.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_vi.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_vi.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_hotel05.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_hotel05.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_id.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_id.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e9.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e9.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_room3.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_room3.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_cruise1.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_cruise1.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_room11.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_room11.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_cruisebranch1.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_cruisebranch1.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_trip9.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_trip9.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e10.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e10.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_room1.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_room1.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_el.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_el.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_profile8.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_profile8.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_background_02.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_background_02.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_car2.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_car2.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_grid.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_grid.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_interio4.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_interio4.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_room4.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_room4.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_airlinesunitedstatesofamerica.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_airlinesunitedstatesofamerica.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_cruisebranch2.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_cruisebranch2.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_avata03.jpeg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_avata03.jpeg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_event3.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_event3.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e13.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e13.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_profile3.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_profile3.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_trip6.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_trip6.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_logo.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_logo.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_trip3.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_trip3.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_cruise3.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_cruise3.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e7.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e7.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e16.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e16.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_hotel07.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_hotel07.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e4.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e4.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_event6.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_event6.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_avata01.jpeg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_avata01.jpeg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_cruisebranch3.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_cruisebranch3.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_de.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_de.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_hotel01.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_hotel01.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_trip7.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_trip7.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_background_04.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_background_04.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\layout_launch_screen.xml.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\layout\\launch_screen.xml"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_cruise4.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_cruise4.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_hotel08.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_hotel08.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_slide.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_slide.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e5.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e5.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_room6.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_room6.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_interio6.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_interio6.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_event7.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_event7.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_airlinesemirates.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_airlinesemirates.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_logo.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_car4.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_car4.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e12.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e12.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\mipmap-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_banner1.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_banner1.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_room7.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_room7.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_trip8.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_trip8.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_cruisebranch4.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_cruisebranch4.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_hotel02.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_hotel02.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e11.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e11.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_interio5.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_interio5.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_avata04.jpeg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_avata04.jpeg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_car5.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_car5.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_en.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_en.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_bg_launch_screen.xml.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\drawable\\bg_launch_screen.xml"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_event1.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_event1.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_profile2.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_profile2.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_he.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_he.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_trip1.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_trip1.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_zh.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_zh.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e18.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e18.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_profile4.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_profile4.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_airlinessingapore.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_airlinessingapore.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_banner2.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_banner2.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_ja.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_ja.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_event2.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_event2.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e14.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e14.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_hotel03.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_hotel03.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_trip5.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_trip5.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_fr.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_fr.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_da.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_da.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e6.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e6.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e17.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e17.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_cruise2.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_cruise2.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_hotel06.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_hotel06.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_products_e3.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_products_e3.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_trip2.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_trip2.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_profile1.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_profile1.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_room5.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_room5.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_room10.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_room10.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_logo.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_ko.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_ko.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_room8.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_room8.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_fa.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_fa.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_car3.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_car3.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_lo.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_lo.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_profile7.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_profile7.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_ar.json.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_ar.json"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_background_03.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_background_03.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_interio3.jpg.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_interio3.jpg"
+    },
+    {
+        "merged": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_logo.png.flat",
+        "source": "C:\\projects\\2021\\felix-travel-complete-react-native-travel-app-template\\source\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_logo.png"
+    }
+]

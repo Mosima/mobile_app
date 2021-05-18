@@ -6,7 +6,6 @@ export const buyNow = data => {
     type: homeTypes.BUY_NOW,
     data
   })
-
   dispacth(fetchCartNum())
   dispacth(fetchCartTotal())
 };
@@ -38,11 +37,11 @@ export const fetchCartNum = () => {
 
 export const fetchCartTotal = () => {
   return (dispacth, getState) => {
-    let totPrice = getState().home.cart?getState().home.cart.reduce((a,b) => b.newPrice + (a.newPrice ? a.newPrice : a)):0
+    let totPrice = getState().home.cart.length > 0?getState().home.cart.reduce((a, b) => +a + +b.newPrice, 0):0
     console.log(totPrice);
     dispacth({
       type: homeTypes.MODIFY_CART_TOTAL_PRICE,
-      totPrice: totPrice
+      totPrice: getState().home.cart.length === 1 ? getState().home.cart[0].price : totPrice
     })
 
   };

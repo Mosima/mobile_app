@@ -25,7 +25,8 @@ export default (state = initialState, action = {}) => {
         : res.push(action.data)
       
       return {
-        cart: res
+        ...state,
+        cart:res
       };
     case  homeTypes.MODIFY_PRODUCT:
       let res1 = state.cart;
@@ -52,14 +53,17 @@ export default (state = initialState, action = {}) => {
           }
         })
       return {
+        ...state,
         cart: res1
       }
     case homeTypes.MODIFY_CART_TOTAL_PRICE:
       return {
+        ...state,
         cartTotal: action.totPrice
       }
     case homeTypes.MODIFY_CART_COUNT:
       return {
+        ...state,
         cartCount: action.count
       }
     default:
