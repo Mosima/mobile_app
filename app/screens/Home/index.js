@@ -17,8 +17,12 @@ import {
   SafeAreaView,
   EventCard,
 } from '@components';
-import {BaseStyle, Images, useTheme} from '@config';
+import {BaseStyle, Images, useTheme, BaseColor} from '@config';
+
 import * as Utils from '@utils';
+import Modal from 'react-native-modal';
+
+
 import styles from './styles';
 import {PromotionData, TourData, HotelData} from '@data';
 import {HomeActions} from '@actions';
@@ -27,6 +31,10 @@ import {useTranslation} from 'react-i18next';
 
 export default function Home({navigation}) {
   const cart = useSelector(state => state.home.cart);
+  const state = useSelector(state => state);
+
+  const cartCount = state.home.cartCount
+  const cartTotal = state.home.cartTotal
   const [cs, setCs] = useState([]);
 
 
@@ -100,6 +108,8 @@ export default function Home({navigation}) {
     },
   ]);
 
+  const [modalVisible, setModalVisible] = useState(false)
+
 
   const [promotion] = useState(PromotionData);
   const [tours] = useState(TourData);
@@ -114,6 +124,147 @@ export default function Home({navigation}) {
    * @returns
    */
 
+   const openModal = (modal) => {
+    setModalVisible(modal);
+  };
+
+  const renderModal = () => {
+    return (
+      <View>
+        <Modal
+          isVisible={modalVisible}
+          onSwipeComplete={() => openModal(false)}
+          swipeDirection={['down']}
+          style={styles.bottomModal}>
+          <View
+            style={[
+              styles.contentFilterBottom,
+              { backgroundColor: colors.card },
+            ]}>
+            <View style={styles.contentSwipeDown}>
+              <View style={styles.lineSwipeDown} />
+            </View>
+            <View
+              style={[
+                styles.contentActionModalBottom,
+                { borderBottomColor: colors.border },
+              ]}>
+              <TouchableOpacity onPress={() => openModal(false)}>
+                <Text body1>{t('cancel')}</Text>
+              </TouchableOpacity>
+              <TouchableOpacity onPress={() => openModal(false)}>
+                <Text body1 primaryColor>
+                  {/* {t('save')} */}
+                  Add to cart
+                </Text>
+              </TouchableOpacity>
+            </View>
+            <View style={styles.lineRow}>
+              <View>
+                <Text body1>Recharge type</Text>
+                {/* <Text caption1 grayColor>
+                  items {cartCount}
+                </Text> */}
+              </View>
+              <View style={styles.iconRight}>
+               
+  
+                <Text title1>R{cartTotal}</Text>
+               
+              </View>
+            </View>
+            <View style={styles.lineRow}>
+              <View>
+                <Text body1>Total</Text>
+                <Text caption1 grayColor>
+                  items {cartCount}
+                </Text>
+              </View>
+              <View style={styles.iconRight}>
+               
+  
+                <Text title1>R{cartTotal}</Text>
+               
+              </View>
+            </View>
+            <View style={styles.lineRow}>
+              {/* <View>
+                <Text body1>{t('children')}</Text>
+                <Text caption1 grayColor>
+                  2-11 {t('years')}
+                </Text>
+              </View> */}
+              {/* <View style={styles.iconRight}>
+                <TouchableOpacity onPress={() => setValue('down', 'children')}>
+                  <Icon
+                    name="minus-circle"
+                    size={24}
+                    color={BaseColor.grayColor}
+                  />
+                </TouchableOpacity>
+                <Text title1>children</Text>
+                <TouchableOpacity onPress={() => setValue('up', 'children')}>
+                  <Icon name="plus-circle" size={24} color={colors.primary} />
+                </TouchableOpacity>
+              </View> */}
+            </View>
+          </View>
+        </Modal>
+        <Modal
+          isVisible={modalVisible === 'duration'}
+          onSwipeComplete={() => openModal(false)}
+          swipeDirection={['down']}
+          style={styles.bottomModal}>
+          <View
+            style={[
+              styles.contentFilterBottom,
+              { backgroundColor: colors.card },
+            ]}>
+            <View style={styles.contentSwipeDown}>
+              <View style={styles.lineSwipeDown} />
+            </View>
+            <View
+              style={[
+                styles.contentActionModalBottom,
+                { borderBottomColor: colors.border },
+              ]}>
+              <TouchableOpacity onPress={() => openModal(false)}>
+                <Text body1>{t('cancel')}</Text>
+              </TouchableOpacity>
+              <TouchableOpacity onPress={() => openModal(false)}>
+                <Text body1 primaryColor>
+                  {/* {t('save')} */}
+                  Checkout
+                </Text>
+              </TouchableOpacity>
+            </View>
+            <View style={[styles.lineRow, { marginBottom: 40 }]}>
+              <View>
+                <Text body1>{t('duration')}</Text>
+                <Text caption1 grayColor>
+                  {t('night')}
+                </Text>
+              </View>
+              <View style={styles.iconRight}>
+                <TouchableOpacity onPress={() => setValue('down', 'night')}>
+                  <Icon
+                    name="minus-circle"
+                    size={24}
+                    color={BaseColor.grayColor}
+                  />
+                </TouchableOpacity>
+                <Text title1>night</Text>
+                <TouchableOpacity onPress={() => setValue('up', 'night')}>
+                  <Icon name="plus-circle" size={24} color={colors.primary} />
+                </TouchableOpacity>
+              </View>
+              
+            </View>
+          </View>
+        </Modal>
+      </View>
+    );
+  };
 
 
 
@@ -211,6 +362,7 @@ export default function Home({navigation}) {
               horizontal={true}
               showsHorizontalScrollIndicator={false}
               data={promotion}
+
               keyExtractor={(item, index) => item.product_id}
               renderItem={({ item, index }) => (
                   item.product_type === "Airtime" ?
@@ -218,6 +370,7 @@ export default function Home({navigation}) {
                       style={[styles.promotionItem, { marginLeft: 15 }]}
                       image={item.image}
                       onPress={() => {
+                        setModalVisible(true)
                         //navigation.navigate('Booking');
                         // let cartIterm = []
                         //     cartIterm.push(item)
@@ -238,12 +391,14 @@ export default function Home({navigation}) {
                         <Button
                           style={styles.btnPromotion}
                           onPress={() => {
-                            let cartIterm = []
-                            cartIterm.push(item)
-                            cartIterm[0].qty = 1
-                            cartIterm[0].cartkey = 1
-                            dispatch(HomeActions.buyNow(cartIterm[0]));
-                            navigation.navigate('Booking');
+                            //check functionality again
+                            // let cartIterm = []
+                            // cartIterm.push(item)
+                            // cartIterm[0].qty = 1
+                            // cartIterm[0].cartkey = 1
+                            
+                            //dispatch(HomeActions.buyNow(cartIterm[0]));
+                            //navigation.navigate('Booking');
                           }}>
                           <Text body2 semibold whiteColor>
                             {t('book_now')}
@@ -347,6 +502,7 @@ export default function Home({navigation}) {
             )}
           />
         </ScrollView>
+        {renderModal()}
       </SafeAreaView>
     </View>
   );
