@@ -142,7 +142,7 @@ export default StyleSheet.create({
     paddingBottom: 20
   },
   iconRight: {
-    width: 100,
+    width: 140,
     flexDirection: "row",
     justifyContent: "space-between",
     alignItems: "center"
@@ -168,5 +168,10 @@ export default StyleSheet.create({
     marginBottom: 10,
     justifyContent: "space-between",
     borderBottomWidth: 1
+  },
+  container: {
+    //flex: 1,
+    //paddingTop: 40,
+    //alignItems: "center"
   }
 });

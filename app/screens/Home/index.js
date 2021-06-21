@@ -6,6 +6,7 @@ import {
   Animated,
   TouchableOpacity,
   FlatList,
+  Picker
 } from 'react-native';
 import {
   Image,
@@ -32,7 +33,7 @@ import {useTranslation} from 'react-i18next';
 export default function Home({navigation}) {
   const cart = useSelector(state => state.home.cart);
   const state = useSelector(state => state);
-
+  const [selectedValue, setSelectedValue] = useState("Airtime");
   const cartCount = state.home.cartCount
   const cartTotal = state.home.cartTotal
   const [cs, setCs] = useState([]);
@@ -168,9 +169,18 @@ export default function Home({navigation}) {
               </View>
               <View style={styles.iconRight}>
                
-  
-                <Text title1>R{cartTotal}</Text>
-               
+             
+                <Picker
+                  selectedValue={selectedValue}
+                  style={{ height: 50, width: 150, }}
+                  onValueChange={(itemValue, itemIndex) => setSelectedValue(itemValue)}
+                  mode='dropdown'
+                  title1
+                >
+                  <Picker.Item title1 label="Airtime" value="airtime" />
+                  <Picker.Item label="Data" value="data" />
+                </Picker>
+             
               </View>
             </View>
             <View style={styles.lineRow}>
