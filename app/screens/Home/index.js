@@ -33,10 +33,12 @@ import {useTranslation} from 'react-i18next';
 export default function Home({navigation}) {
   const cart = useSelector(state => state.home.cart);
   const state = useSelector(state => state);
+  const [selectedAirtimeValue, setSelectedAirtimeValue] = useState(0);
   const [selectedValue, setSelectedValue] = useState("Airtime");
   const cartCount = state.home.cartCount
   const cartTotal = state.home.cartTotal
   const [cs, setCs] = useState([]);
+  const [currentProduct, setCurrProduct] = useState([]);
 
 
   // const fetchCart = () => dispatch(HomeActions.getCart());
@@ -153,7 +155,14 @@ export default function Home({navigation}) {
               <TouchableOpacity onPress={() => openModal(false)}>
                 <Text body1>{t('cancel')}</Text>
               </TouchableOpacity>
-              <TouchableOpacity onPress={() => openModal(false)}>
+              <TouchableOpacity
+                onPress={(e) => {
+                  e.preventDefault();
+                  openModal(false);
+                  dispatch(HomeActions.buyNow(selectedValue, selectedAirtimeValue, currentProduct));
+                  navigation.navigate('Booking');
+                }}
+              >
                 <Text body1 primaryColor>
                   {/* {t('save')} */}
                   Add to cart
@@ -192,8 +201,26 @@ export default function Home({navigation}) {
               </View>
               <View style={styles.iconRight}>
                
-  
-                <Text title1>R{cartTotal}</Text>
+              <View style={styles.iconRight}>
+               
+             
+               <Picker
+                 selectedValue={selectedValue}
+                 style={{ height: 50, width: 150, }}
+                 onValueChange={(itemValue, itemIndex) => setSelectedAirtimeValue(itemValue)}
+                 mode='dropdown'
+                 title1
+               >
+                 {
+                   [5, 10, 12, 29].map((x, i)=>(
+                     <Picker.Item key={i} title1 label={x.toString()} value={x.toString()} />
+                   ))
+                 }
+                 
+               </Picker>
+            
+             </View>
+                {/* <Text title1>R{cartTotal}</Text> */}
                
               </View>
             </View>
@@ -381,6 +408,7 @@ export default function Home({navigation}) {
                       image={item.image}
                       onPress={() => {
                         setModalVisible(true)
+                        setCurrProduct(item)
                         //navigation.navigate('Booking');
                         // let cartIterm = []
                         //     cartIterm.push(item)

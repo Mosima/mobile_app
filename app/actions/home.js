@@ -1,10 +1,17 @@
 import * as homeTypes from "./homeTypes";
 
-export const buyNow = data => {
+export const buyNow = (selectedValue, setSelectedAirtimeValue, currentProduct) => {
+  console.log('selectedValue', selectedValue);
+  console.log('setSelectedAirtimeValue', setSelectedAirtimeValue);
+  
+  currentProduct.type = selectedValue
+  currentProduct.price = setSelectedAirtimeValue
+
+  console.log('currentProduct', currentProduct);
   return (dispacth, getState) => {
     dispacth({
     type: homeTypes.BUY_NOW,
-    data
+    data: currentProduct
   })
   dispacth(fetchCartNum())
   dispacth(fetchCartTotal())
